@@ -1,0 +1,1279 @@
+languagesystem DFLT dflt;
+languagesystem khmr dflt;
+
+
+# GSUB 
+
+
+lookup blwfBelowBaseFormsinKhmerlookup0 {
+  lookupflag 0;
+    sub \uni17D2 \uni1780  by \uni17D21780;
+    sub \uni17D2 \uni1781  by \uni17D21781;
+    sub \uni17D2 \uni1782  by \uni17D21782;
+    sub \uni17D2 \uni1784  by \uni17D21784;
+    sub \uni17D2 \uni1785  by \uni17D21785;
+    sub \uni17D2 \uni1786  by \uni17D21786;
+    sub \uni17D2 \uni1787  by \uni17D21787;
+    sub \uni17D2 \uni1789  by \uni17D21789;
+    sub \uni17D2 \uni178A  by \uni17D2178A;
+    sub \uni17D2 \uni178B  by \uni17D2178B;
+    sub \uni17D2 \uni178C  by \uni17D2178C;
+    sub \uni17D2 \uni178E  by \uni17D2178E;
+    sub \uni17D2 \uni178F  by \uni17D2178F;
+    sub \uni17D2 \uni1790  by \uni17D21790;
+    sub \uni17D2 \uni1791  by \uni17D21791;
+    sub \uni17D2 \uni1792  by \uni17D21792;
+    sub \uni17D2 \uni1793  by \uni17D21793;
+    sub \uni17D2 \uni1795  by \uni17D21795;
+    sub \uni17D2 \uni1796  by \uni17D21796;
+    sub \uni17D2 \uni1797  by \uni17D21797;
+    sub \uni17D2 \uni1798  by \uni17D21798;
+    sub \uni17D2 \uni179B  by \uni17D2179B;
+    sub \uni17D2 \uni179C  by \uni17D2179C;
+    sub \uni17D2 \uni17A0  by \uni17D217A0;
+    sub \uni17D2 \uni17A2  by \uni17D217A2;
+} blwfBelowBaseFormsinKhmerlookup0;
+
+lookup pstfPostBaseFormsinKhmerlookup1 {
+  lookupflag 0;
+    sub \uni17D2 \uni1783  by \uni17D21783;
+    sub \uni17D2 \uni1788  by \uni17D21788;
+    sub \uni17D2 \uni178D  by \uni17D2178D;
+    sub \uni17D2 \uni1794  by \uni17D21794;
+    sub \uni17D2 \uni1799  by \uni17D21799;
+    sub \uni17D2 \uni179F  by \uni17D2179F;
+} pstfPostBaseFormsinKhmerlookup1;
+
+lookup prefPreBaseFormsinKhmerlookup2 {
+  lookupflag 0;
+    sub \uni17D2 \uni179A  by \uni17D2179A;
+} prefPreBaseFormsinKhmerlookup2;
+
+lookup ligaStandardLigaturesinKhmerlookup3 {
+  lookupflag 0;
+    sub \uni1780 \uni17C4  by \uni178017B6;
+    sub \uni1780 \uni17B6  by \uni178017B6;
+    sub \uni1781 \uni17C4  by \uni178117B6;
+    sub \uni1781 \uni17B6  by \uni178117B6;
+    sub \uni1782 \uni17C4  by \uni178217B6;
+    sub \uni1782 \uni17B6  by \uni178217B6;
+    sub \uni1783 \uni17C4  by \uni178317B6;
+    sub \uni1783 \uni17B6  by \uni178317B6;
+    sub \uni1784 \uni17C4  by \uni178417B6;
+    sub \uni1784 \uni17B6  by \uni178417B6;
+    sub \uni1785 \uni17C4  by \uni178517B6;
+    sub \uni1785 \uni17B6  by \uni178517B6;
+    sub \uni1786 \uni17C4  by \uni178617B6;
+    sub \uni1786 \uni17B6  by \uni178617B6;
+    sub \uni1787 \uni17C4  by \uni178717B6;
+    sub \uni1787 \uni17B6  by \uni178717B6;
+    sub \uni1788 \uni17C4  by \uni178817B6;
+    sub \uni1788 \uni17B6  by \uni178817B6;
+    sub \uni1789 \uni17C4  by \uni178917B6;
+    sub \uni1789 \uni17B6  by \uni178917B6;
+    sub \uni178A \uni17C4  by \uni178A17B6;
+    sub \uni178A \uni17B6  by \uni178A17B6;
+    sub \uni178B \uni17C4  by \uni178B17B6;
+    sub \uni178B \uni17B6  by \uni178B17B6;
+    sub \uni178C \uni17C4  by \uni178C17B6;
+    sub \uni178C \uni17B6  by \uni178C17B6;
+    sub \uni178D \uni17C4  by \uni178D17B6;
+    sub \uni178D \uni17B6  by \uni178D17B6;
+    sub \uni178E \uni17C4  by \uni178E17B6;
+    sub \uni178E \uni17B6  by \uni178E17B6;
+    sub \uni178F \uni17C4  by \uni178F17B6;
+    sub \uni178F \uni17B6  by \uni178F17B6;
+    sub \uni1790 \uni17C4  by \uni179017B6;
+    sub \uni1790 \uni17B6  by \uni179017B6;
+    sub \uni1791 \uni17C4  by \uni179117B6;
+    sub \uni1791 \uni17B6  by \uni179117B6;
+    sub \uni1792 \uni17C4  by \uni179217B6;
+    sub \uni1792 \uni17B6  by \uni179217B6;
+    sub \uni1793 \uni17C4  by \uni179317B6;
+    sub \uni1793 \uni17B6  by \uni179317B6;
+    sub \uni1794 \uni17C4  by \uni179417B6;
+    sub \uni1794 \uni17B6  by \uni179417B6;
+    sub \uni1795 \uni17C4  by \uni179517B6;
+    sub \uni1795 \uni17B6  by \uni179517B6;
+    sub \uni1796 \uni17C4  by \uni179617B6;
+    sub \uni1796 \uni17B6  by \uni179617B6;
+    sub \uni1797 \uni17C4  by \uni179717B6;
+    sub \uni1797 \uni17B6  by \uni179717B6;
+    sub \uni1798 \uni17C4  by \uni179817B6;
+    sub \uni1798 \uni17B6  by \uni179817B6;
+    sub \uni1799 \uni17C4  by \uni179917B6;
+    sub \uni1799 \uni17B6  by \uni179917B6;
+    sub \uni179A \uni17C4  by \uni179A17B6;
+    sub \uni179A \uni17B6  by \uni179A17B6;
+    sub \uni179B \uni17C4  by \uni179B17B6;
+    sub \uni179B \uni17B6  by \uni179B17B6;
+    sub \uni179C \uni17C4  by \uni179C17B6;
+    sub \uni179C \uni17B6  by \uni179C17B6;
+    sub \uni179D \uni17C4  by \uni179D17B6;
+    sub \uni179D \uni17B6  by \uni179D17B6;
+    sub \uni179E \uni17C4  by \uni179E17B6;
+    sub \uni179E \uni17B6  by \uni179E17B6;
+    sub \uni179F \uni17C4  by \uni179F17B6;
+    sub \uni179F \uni17B6  by \uni179F17B6;
+    sub \uni17A0 \uni17C4  by \uni17A017B6;
+    sub \uni17A0 \uni17B6  by \uni17A017B6;
+    sub \uni17A1 \uni17C4  by \uni17A117B6;
+    sub \uni17A1 \uni17B6  by \uni17A117B6;
+    sub \uni17A2 \uni17C4  by \uni17A217B6;
+    sub \uni17A2 \uni17B6  by \uni17A217B6;
+    sub \uni17D21783 \uni17C4  by \uni17D2178317B6;
+    sub \uni17D21783 \uni17B6  by \uni17D2178317B6;
+    sub \uni17D21788 \uni17C4  by \uni17D2178817B6;
+    sub \uni17D21788 \uni17B6  by \uni17D2178817B6;
+    sub \uni17D2178D \uni17C4  by \uni17D2178D17B6;
+    sub \uni17D2178D \uni17B6  by \uni17D2178D17B6;
+    sub \uni17D21794 \uni17C4  by \uni17D2179417B6;
+    sub \uni17D21794 \uni17B6  by \uni17D2179417B6;
+    sub \uni17D21799 \uni17C4  by \uni17D2179917B6;
+    sub \uni17D21799 \uni17B6  by \uni17D2179917B6;
+    sub \uni17D2179F \uni17C4  by \uni17D2179F17B6;
+    sub \uni17D2179F \uni17B6  by \uni17D2179F17B6;
+    sub \uni1780 \uni17C5  by \uni178017C5;
+    sub \uni1781 \uni17C5  by \uni178117C5;
+    sub \uni1782 \uni17C5  by \uni178217C5;
+    sub \uni1783 \uni17C5  by \uni178317C5;
+    sub \uni1784 \uni17C5  by \uni178417C5;
+    sub \uni1785 \uni17C5  by \uni178517C5;
+    sub \uni1786 \uni17C5  by \uni178617C5;
+    sub \uni1787 \uni17C5  by \uni178717C5;
+    sub \uni1788 \uni17C5  by \uni178817C5;
+    sub \uni1789 \uni17C5  by \uni178917C5;
+    sub \uni178A \uni17C5  by \uni178A17C5;
+    sub \uni178B \uni17C5  by \uni178B17C5;
+    sub \uni178C \uni17C5  by \uni178C17C5;
+    sub \uni178D \uni17C5  by \uni178D17C5;
+    sub \uni178E \uni17C5  by \uni178E17C5;
+    sub \uni178F \uni17C5  by \uni178F17C5;
+    sub \uni1790 \uni17C5  by \uni179017C5;
+    sub \uni1791 \uni17C5  by \uni179117C5;
+    sub \uni1792 \uni17C5  by \uni179217C5;
+    sub \uni1793 \uni17C5  by \uni179317C5;
+    sub \uni1794 \uni17C5  by \uni179417C5;
+    sub \uni1795 \uni17C5  by \uni179517C5;
+    sub \uni1796 \uni17C5  by \uni179617C5;
+    sub \uni1797 \uni17C5  by \uni179717C5;
+    sub \uni1798 \uni17C5  by \uni179817C5;
+    sub \uni1799 \uni17C5  by \uni179917C5;
+    sub \uni179A \uni17C5  by \uni179A17C5;
+    sub \uni179B \uni17C5  by \uni179B17C5;
+    sub \uni179C \uni17C5  by \uni179C17C5;
+    sub \uni179D \uni17C5  by \uni179D17C5;
+    sub \uni179E \uni17C5  by \uni179E17C5;
+    sub \uni179F \uni17C5  by \uni179F17C5;
+    sub \uni17A0 \uni17C5  by \uni17A017C5;
+    sub \uni17A1 \uni17C5  by \uni17A117C5;
+    sub \uni17A2 \uni17C5  by \uni17A217C5;
+    sub \uni17D21783 \uni17C5  by \uni17D2178317C5;
+    sub \uni17D21788 \uni17C5  by \uni17D2178817C5;
+    sub \uni17D2178D \uni17C5  by \uni17D2178D17C5;
+    sub \uni17D21794 \uni17C5  by \uni17D2179417C5;
+    sub \uni17D21799 \uni17C5  by \uni17D2179917C5;
+    sub \uni17D2179F \uni17C5  by \uni17D2179F17C5;
+} ligaStandardLigaturesinKhmerlookup3;
+
+lookup SingleSubstitutionlookup33 {
+  lookupflag 0;
+    sub \uni17C9 by \uni17BB ;
+    sub \uni17C9.ro by \uni17BB ;
+} SingleSubstitutionlookup33;
+
+lookup ligaStandardLigaturesinKhmerlookup4 {
+  lookupflag 0;
+    sub [\uni17C9 \uni17C9.ro ]'lookup SingleSubstitutionlookup33  [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17CE \uni17D0 ] ;
+    sub [\uni17C9 \uni17C9.ro ]'lookup SingleSubstitutionlookup33  [\uni17BE ] ;
+} ligaStandardLigaturesinKhmerlookup4;
+
+lookup SingleSubstitutionlookup34 {
+  lookupflag 0;
+    sub \uni1789 by \uni1789.alt ;
+} SingleSubstitutionlookup34;
+
+lookup ligaStandardLigaturesinKhmerlookup5 {
+  lookupflag 0;
+    sub [\uni1789 ]'lookup SingleSubstitutionlookup34  [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 
+	\uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B 
+	\uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 
+	\uni17D21798 \uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ] ;
+    sub [\uni1789 ]'lookup SingleSubstitutionlookup34  [\uni17D21783 ] ;
+    sub [\uni1789 ]'lookup SingleSubstitutionlookup34  [\uni17D21788 ] ;
+    sub [\uni1789 ]'lookup SingleSubstitutionlookup34  [\uni17D2178D ] ;
+    sub [\uni1789 ]'lookup SingleSubstitutionlookup34  [\uni17D21794 ] ;
+    sub [\uni1789 ]'lookup SingleSubstitutionlookup34  [\uni17D21799 ] ;
+    sub [\uni1789 ]'lookup SingleSubstitutionlookup34  [\uni17D2179F ] ;
+} ligaStandardLigaturesinKhmerlookup5;
+
+lookup ligaStandardLigaturesinKhmerlookup6 {
+  lookupflag 0;
+    sub [\uni1789.alt ] [\uni17D21789 ]'  by [\uni17D21789.alt ];
+} ligaStandardLigaturesinKhmerlookup6;
+
+lookup SingleSubstitutionlookup36 {
+  lookupflag 0;
+    sub \uni1780 by \uni178017B6 ;
+    sub \uni1781 by \uni178117B6 ;
+    sub \uni1782 by \uni178217B6 ;
+    sub \uni1783 by \uni178317B6 ;
+    sub \uni1784 by \uni178417B6 ;
+    sub \uni1785 by \uni178517B6 ;
+    sub \uni1786 by \uni178617B6 ;
+    sub \uni1787 by \uni178717B6 ;
+    sub \uni1788 by \uni178817B6 ;
+    sub \uni1789 by \uni178917B6 ;
+    sub \uni178A by \uni178A17B6 ;
+    sub \uni178B by \uni178B17B6 ;
+    sub \uni178C by \uni178C17B6 ;
+    sub \uni178D by \uni178D17B6 ;
+    sub \uni178E by \uni178E17B6 ;
+    sub \uni178F by \uni178F17B6 ;
+    sub \uni1790 by \uni179017B6 ;
+    sub \uni1791 by \uni179117B6 ;
+    sub \uni1792 by \uni179217B6 ;
+    sub \uni1793 by \uni179317B6 ;
+    sub \uni1794 by \uni179417B6 ;
+    sub \uni1795 by \uni179517B6 ;
+    sub \uni1796 by \uni179617B6 ;
+    sub \uni1797 by \uni179717B6 ;
+    sub \uni1798 by \uni179817B6 ;
+    sub \uni1799 by \uni179917B6 ;
+    sub \uni179A by \uni179A17B6 ;
+    sub \uni179B by \uni179B17B6 ;
+    sub \uni179C by \uni179C17B6 ;
+    sub \uni179D by \uni179D17B6 ;
+    sub \uni179E by \uni179E17B6 ;
+    sub \uni179F by \uni179F17B6 ;
+    sub \uni17A0 by \uni17A017B6 ;
+    sub \uni17A1 by \uni17A117B6 ;
+    sub \uni17A2 by \uni17A217B6 ;
+    sub \uni1789.alt by \uni178917B6.alt ;
+} SingleSubstitutionlookup36;
+
+lookup ligaStandardLigaturesinKhmerlookup7 {
+  lookupflag 0;
+    sub [\uni1780 \uni1781 \uni1782 \uni1783 \uni1784 \uni1785 \uni1786 \uni1787 \uni1788 
+	\uni1789 \uni178A \uni178B \uni178C \uni178D \uni178E \uni178F \uni1790 
+	\uni1791 \uni1792 \uni1793 \uni1794 \uni1795 \uni1796 \uni1797 \uni1798 
+	\uni1799 \uni179A \uni179B \uni179C \uni179D \uni179E \uni179F \uni17A0 
+	\uni17A1 \uni17A2 \uni1789.alt ]'lookup SingleSubstitutionlookup36  [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 
+	\uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B 
+	\uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 
+	\uni17D21798 \uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ] [\uni17B6 ] ;
+    sub [\uni1780 \uni1781 \uni1782 \uni1783 \uni1784 \uni1785 \uni1786 \uni1787 \uni1788 
+	\uni1789 \uni178A \uni178B \uni178C \uni178D \uni178E \uni178F \uni1790 
+	\uni1791 \uni1792 \uni1793 \uni1794 \uni1795 \uni1796 \uni1797 \uni1798 
+	\uni1799 \uni179A \uni179B \uni179C \uni179D \uni179E \uni179F \uni17A0 
+	\uni17A1 \uni17A2 \uni1789.alt ]'lookup SingleSubstitutionlookup36  [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 
+	\uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B 
+	\uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 
+	\uni17D21798 \uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ] [\uni17C6 ] [\uni17B6 ] ;
+    sub [\uni1780 \uni1781 \uni1782 \uni1783 \uni1784 \uni1785 \uni1786 \uni1787 \uni1788 
+	\uni1789 \uni178A \uni178B \uni178C \uni178D \uni178E \uni178F \uni1790 
+	\uni1791 \uni1792 \uni1793 \uni1794 \uni1795 \uni1796 \uni1797 \uni1798 
+	\uni1799 \uni179A \uni179B \uni179C \uni179D \uni179E \uni179F \uni17A0 
+	\uni17A1 \uni17A2 \uni1789.alt ]'lookup SingleSubstitutionlookup36  [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 
+	\uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B 
+	\uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 
+	\uni17D21798 \uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ] [\uni17C4 ] ;
+} ligaStandardLigaturesinKhmerlookup7;
+
+lookup SingleSubstitutionlookup37 {
+  lookupflag 0;
+    sub \uni1780 by \uni178017B6 ;
+    sub \uni1781 by \uni178117B6 ;
+    sub \uni1782 by \uni178217B6 ;
+    sub \uni1783 by \uni178317B6 ;
+    sub \uni1784 by \uni178417B6 ;
+    sub \uni1785 by \uni178517B6 ;
+    sub \uni1786 by \uni178617B6 ;
+    sub \uni1787 by \uni178717B6 ;
+    sub \uni1788 by \uni178817B6 ;
+    sub \uni1789 by \uni178917B6 ;
+    sub \uni178A by \uni178A17B6 ;
+    sub \uni178B by \uni178B17B6 ;
+    sub \uni178C by \uni178C17B6 ;
+    sub \uni178D by \uni178D17B6 ;
+    sub \uni178E by \uni178E17B6 ;
+    sub \uni178F by \uni178F17B6 ;
+    sub \uni1790 by \uni179017B6 ;
+    sub \uni1791 by \uni179117B6 ;
+    sub \uni1792 by \uni179217B6 ;
+    sub \uni1793 by \uni179317B6 ;
+    sub \uni1794 by \uni179417B6 ;
+    sub \uni1795 by \uni179517B6 ;
+    sub \uni1796 by \uni179617B6 ;
+    sub \uni1797 by \uni179717B6 ;
+    sub \uni1798 by \uni179817B6 ;
+    sub \uni1799 by \uni179917B6 ;
+    sub \uni179A by \uni179A17B6 ;
+    sub \uni179B by \uni179B17B6 ;
+    sub \uni179C by \uni179C17B6 ;
+    sub \uni179D by \uni179D17B6 ;
+    sub \uni179E by \uni179E17B6 ;
+    sub \uni179F by \uni179F17B6 ;
+    sub \uni17A0 by \uni17A017B6 ;
+    sub \uni17A1 by \uni17A117B6 ;
+    sub \uni17A2 by \uni17A217B6 ;
+    sub \uni17D21783 by \uni17D2178317B6 ;
+    sub \uni17D21788 by \uni17D2178817B6 ;
+    sub \uni17D2178D by \uni17D2178D17B6 ;
+    sub \uni17D21794 by \uni17D2179417B6 ;
+    sub \uni17D21799 by \uni17D2179917B6 ;
+    sub \uni17D2179F by \uni17D2179F17B6 ;
+} SingleSubstitutionlookup37;
+
+lookup ligaStandardLigaturesinKhmerlookup8 {
+  lookupflag 0;
+    sub [\uni1780 \uni1781 \uni1782 \uni1783 \uni1784 \uni1785 \uni1786 \uni1787 \uni1788 
+	\uni1789 \uni178A \uni178B \uni178C \uni178D \uni178E \uni178F \uni1790 
+	\uni1791 \uni1792 \uni1793 \uni1794 \uni1795 \uni1796 \uni1797 \uni1798 
+	\uni1799 \uni179A \uni179B \uni179C \uni179D \uni179E \uni179F \uni17A0 
+	\uni17A1 \uni17A2 \uni17D21783 \uni17D21788 \uni17D2178D \uni17D21794 
+	\uni17D21799 \uni17D2179F ]'lookup SingleSubstitutionlookup37  [\uni17C9 \uni17CA \uni17CC \uni17CE ] [\uni17B6 ] ;
+    sub [\uni1780 \uni1781 \uni1782 \uni1783 \uni1784 \uni1785 \uni1786 \uni1787 \uni1788 
+	\uni1789 \uni178A \uni178B \uni178C \uni178D \uni178E \uni178F \uni1790 
+	\uni1791 \uni1792 \uni1793 \uni1794 \uni1795 \uni1796 \uni1797 \uni1798 
+	\uni1799 \uni179A \uni179B \uni179C \uni179D \uni179E \uni179F \uni17A0 
+	\uni17A1 \uni17A2 \uni17D21783 \uni17D21788 \uni17D2178D \uni17D21794 
+	\uni17D21799 \uni17D2179F ]'lookup SingleSubstitutionlookup37  [\uni17C6 ] [\uni17B6 ] ;
+    sub [\uni1780 \uni1781 \uni1782 \uni1783 \uni1784 \uni1785 \uni1786 \uni1787 \uni1788 
+	\uni1789 \uni178A \uni178B \uni178C \uni178D \uni178E \uni178F \uni1790 
+	\uni1791 \uni1792 \uni1793 \uni1794 \uni1795 \uni1796 \uni1797 \uni1798 
+	\uni1799 \uni179A \uni179B \uni179C \uni179D \uni179E \uni179F \uni17A0 
+	\uni17A1 \uni17A2 \uni17D21783 \uni17D21788 \uni17D2178D \uni17D21794 
+	\uni17D21799 \uni17D2179F ]'lookup SingleSubstitutionlookup37  [\uni17C9 \uni17CA \uni17CC \uni17CE ] [\uni17C4 ] ;
+} ligaStandardLigaturesinKhmerlookup8;
+
+lookup ligaStandardLigaturesinKhmerlookup9 {
+  lookupflag 0;
+    sub [\uni1780 \uni1781 \uni1782 \uni1783 \uni1784 \uni1785 \uni1786 \uni1787 \uni1788 
+	\uni1789 \uni178A \uni178B \uni178C \uni178D \uni178E \uni178F \uni1790 
+	\uni1791 \uni1792 \uni1793 \uni1794 \uni1795 \uni1796 \uni1797 \uni1798 
+	\uni1799 \uni179A \uni179B \uni179C \uni179D \uni179E \uni179F \uni17A0 
+	\uni17A1 \uni17A2 \uni1789.alt ]' [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 
+	\uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B 
+	\uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 
+	\uni17D21798 \uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ] [\uni17C5 ]  by [\uni178017C5 \uni178117C5 \uni178217C5 
+	\uni178317C5 \uni178417C5 \uni178517C5 \uni178617C5 \uni178717C5 \uni178817C5 
+	\uni178917C5 \uni178A17C5 \uni178B17C5 \uni178C17C5 \uni178D17C5 \uni178E17C5 
+	\uni178F17C5 \uni179017C5 \uni179117C5 \uni179217C5 \uni179317C5 \uni179417C5 
+	\uni179517C5 \uni179617C5 \uni179717C5 \uni179817C5 \uni179917C5 \uni179A17C5 
+	\uni179B17C5 \uni179C17C5 \uni179D17C5 \uni179E17C5 \uni179F17C5 \uni17A017C5 
+	\uni17A117C5 \uni17A217C5 \uni178917C5.alt ];
+} ligaStandardLigaturesinKhmerlookup9;
+
+lookup ligaStandardLigaturesinKhmerlookup10 {
+  lookupflag 0;
+    sub [\uni1780 \uni1781 \uni1782 \uni1783 \uni1784 \uni1785 \uni1786 \uni1787 \uni1788 
+	\uni1789 \uni178A \uni178B \uni178C \uni178D \uni178E \uni178F \uni1790 
+	\uni1791 \uni1792 \uni1793 \uni1794 \uni1795 \uni1796 \uni1797 \uni1798 
+	\uni1799 \uni179A \uni179B \uni179C \uni179D \uni179E \uni179F \uni17A0 
+	\uni17A1 \uni17A2 ]' [\uni17C9 \uni17CA \uni17CC \uni17CE ] [\uni17C5 ]  by [\uni178017C5 \uni178117C5 \uni178217C5 
+	\uni178317C5 \uni178417C5 \uni178517C5 \uni178617C5 \uni178717C5 \uni178817C5 
+	\uni178917C5 \uni178A17C5 \uni178B17C5 \uni178C17C5 \uni178D17C5 \uni178E17C5 
+	\uni178F17C5 \uni179017C5 \uni179117C5 \uni179217C5 \uni179317C5 \uni179417C5 
+	\uni179517C5 \uni179617C5 \uni179717C5 \uni179817C5 \uni179917C5 \uni179A17C5 
+	\uni179B17C5 \uni179C17C5 \uni179D17C5 \uni179E17C5 \uni179F17C5 \uni17A017C5 
+	\uni17A117C5 \uni17A217C5 ];
+} ligaStandardLigaturesinKhmerlookup10;
+
+lookup LigatureSubstitutionlookup40 {
+  lookupflag 0;
+    sub \uni17C6 \uni17B6  by \uni17C6;
+    sub \uni17D21780 \uni17C5  by \uni17D21780.lig1;
+    sub \uni17D21780 \uni17C4  by \uni17D21780.lig1;
+    sub \uni17D21780 \uni17B6  by \uni17D21780.lig1;
+    sub \uni17D21781 \uni17C5  by \uni17D21781.lig1;
+    sub \uni17D21781 \uni17C4  by \uni17D21781.lig1;
+    sub \uni17D21781 \uni17B6  by \uni17D21781.lig1;
+    sub \uni17D21782 \uni17C5  by \uni17D21782.lig1;
+    sub \uni17D21782 \uni17C4  by \uni17D21782.lig1;
+    sub \uni17D21782 \uni17B6  by \uni17D21782.lig1;
+    sub \uni17D21784 \uni17C5  by \uni17D21784.lig1;
+    sub \uni17D21784 \uni17C4  by \uni17D21784.lig1;
+    sub \uni17D21784 \uni17B6  by \uni17D21784.lig1;
+    sub \uni17D21785 \uni17C5  by \uni17D21785.lig1;
+    sub \uni17D21785 \uni17C4  by \uni17D21785.lig1;
+    sub \uni17D21785 \uni17B6  by \uni17D21785.lig1;
+    sub \uni17D21786 \uni17C5  by \uni17D21786.lig1;
+    sub \uni17D21786 \uni17C4  by \uni17D21786.lig1;
+    sub \uni17D21786 \uni17B6  by \uni17D21786.lig1;
+    sub \uni17D21787 \uni17C5  by \uni17D21787.lig1;
+    sub \uni17D21787 \uni17C4  by \uni17D21787.lig1;
+    sub \uni17D21787 \uni17B6  by \uni17D21787.lig1;
+    sub \uni17D21789 \uni17C5  by \uni17D21789.lig1;
+    sub \uni17D21789 \uni17C4  by \uni17D21789.lig1;
+    sub \uni17D21789 \uni17B6  by \uni17D21789.lig1;
+    sub \uni17D21789.alt \uni17C5  by \uni17D21789.alt.lig1;
+    sub \uni17D21789.alt \uni17C4  by \uni17D21789.alt.lig1;
+    sub \uni17D21789.alt \uni17B6  by \uni17D21789.alt.lig1;
+    sub \uni17D2178A \uni17C5  by \uni17D2178A.lig1;
+    sub \uni17D2178A \uni17C4  by \uni17D2178A.lig1;
+    sub \uni17D2178A \uni17B6  by \uni17D2178A.lig1;
+    sub \uni17D2178B \uni17C5  by \uni17D2178B.lig1;
+    sub \uni17D2178B \uni17C4  by \uni17D2178B.lig1;
+    sub \uni17D2178B \uni17B6  by \uni17D2178B.lig1;
+    sub \uni17D2178C \uni17C5  by \uni17D2178C.lig1;
+    sub \uni17D2178C \uni17C4  by \uni17D2178C.lig1;
+    sub \uni17D2178C \uni17B6  by \uni17D2178C.lig1;
+    sub \uni17D2178E \uni17C5  by \uni17D2178E.lig1;
+    sub \uni17D2178E \uni17C4  by \uni17D2178E.lig1;
+    sub \uni17D2178E \uni17B6  by \uni17D2178E.lig1;
+    sub \uni17D2178F \uni17C5  by \uni17D2178F.lig1;
+    sub \uni17D2178F \uni17C4  by \uni17D2178F.lig1;
+    sub \uni17D2178F \uni17B6  by \uni17D2178F.lig1;
+    sub \uni17D21790 \uni17C5  by \uni17D21790.lig1;
+    sub \uni17D21790 \uni17C4  by \uni17D21790.lig1;
+    sub \uni17D21790 \uni17B6  by \uni17D21790.lig1;
+    sub \uni17D21791 \uni17C5  by \uni17D21791.lig1;
+    sub \uni17D21791 \uni17C4  by \uni17D21791.lig1;
+    sub \uni17D21791 \uni17B6  by \uni17D21791.lig1;
+    sub \uni17D21792 \uni17C5  by \uni17D21792.lig1;
+    sub \uni17D21792 \uni17C4  by \uni17D21792.lig1;
+    sub \uni17D21792 \uni17B6  by \uni17D21792.lig1;
+    sub \uni17D21793 \uni17C5  by \uni17D21793.lig1;
+    sub \uni17D21793 \uni17C4  by \uni17D21793.lig1;
+    sub \uni17D21793 \uni17B6  by \uni17D21793.lig1;
+    sub \uni17D21795 \uni17C5  by \uni17D21795.lig1;
+    sub \uni17D21795 \uni17C4  by \uni17D21795.lig1;
+    sub \uni17D21795 \uni17B6  by \uni17D21795.lig1;
+    sub \uni17D21796 \uni17C5  by \uni17D21796.lig1;
+    sub \uni17D21796 \uni17C4  by \uni17D21796.lig1;
+    sub \uni17D21796 \uni17B6  by \uni17D21796.lig1;
+    sub \uni17D21797 \uni17C5  by \uni17D21797.lig1;
+    sub \uni17D21797 \uni17C4  by \uni17D21797.lig1;
+    sub \uni17D21797 \uni17B6  by \uni17D21797.lig1;
+    sub \uni17D21798 \uni17C5  by \uni17D21798.lig1;
+    sub \uni17D21798 \uni17C4  by \uni17D21798.lig1;
+    sub \uni17D21798 \uni17B6  by \uni17D21798.lig1;
+    sub \uni17D2179B \uni17C5  by \uni17D2179B.lig1;
+    sub \uni17D2179B \uni17C4  by \uni17D2179B.lig1;
+    sub \uni17D2179B \uni17B6  by \uni17D2179B.lig1;
+    sub \uni17D2179C \uni17C5  by \uni17D2179C.lig1;
+    sub \uni17D2179C \uni17C4  by \uni17D2179C.lig1;
+    sub \uni17D2179C \uni17B6  by \uni17D2179C.lig1;
+    sub \uni17D217A0 \uni17C5  by \uni17D217A0.lig1;
+    sub \uni17D217A0 \uni17C4  by \uni17D217A0.lig1;
+    sub \uni17D217A0 \uni17B6  by \uni17D217A0.lig1;
+    sub \uni17D217A2 \uni17C5  by \uni17D217A2.lig1;
+    sub \uni17D217A2 \uni17C4  by \uni17D217A2.lig1;
+    sub \uni17D217A2 \uni17B6  by \uni17D217A2.lig1;
+    sub \uni17D2178A.lig2 \uni17C5  by \uni17D2178A.lig2;
+    sub \uni17D2178A.lig2 \uni17C4  by \uni17D2178A.lig2;
+    sub \uni17D2178A.lig2 \uni17B6  by \uni17D2178A.lig2;
+    sub \uni17D2178B.lig2 \uni17C5  by \uni17D2178B.lig2;
+    sub \uni17D2178B.lig2 \uni17C4  by \uni17D2178B.lig2;
+    sub \uni17D2178B.lig2 \uni17B6  by \uni17D2178B.lig2;
+    sub \uni17D2178C.lig2 \uni17C5  by \uni17D2178C.lig2;
+    sub \uni17D2178C.lig2 \uni17C4  by \uni17D2178C.lig2;
+    sub \uni17D2178C.lig2 \uni17B6  by \uni17D2178C.lig2;
+    sub \uni17D2178E.lig2 \uni17C5  by \uni17D2178E.lig2;
+    sub \uni17D2178E.lig2 \uni17C4  by \uni17D2178E.lig2;
+    sub \uni17D2178E.lig2 \uni17B6  by \uni17D2178E.lig2;
+    sub \uni17D217A0.lig2 \uni17C5  by \uni17D217A0.lig2;
+    sub \uni17D217A0.lig2 \uni17C4  by \uni17D217A0.lig2;
+    sub \uni17D217A0.lig2 \uni17B6  by \uni17D217A0.lig2;
+    sub \uni17C9 \uni17C5  by \uni17C9.lig;
+    sub \uni17C9 \uni17C4  by \uni17C9.lig;
+    sub \uni17C9 \uni17B6  by \uni17C9.lig;
+    sub \uni17CA \uni17C5  by \uni17CA.lig;
+    sub \uni17CA \uni17C4  by \uni17CA.lig;
+    sub \uni17CA \uni17B6  by \uni17CA.lig;
+    sub \uni17CC \uni17C5  by \uni17CC.lig;
+    sub \uni17CC \uni17C4  by \uni17CC.lig;
+    sub \uni17CC \uni17B6  by \uni17CC.lig;
+    sub \uni17CE \uni17C5  by \uni17CE.lig;
+    sub \uni17CE \uni17C4  by \uni17CE.lig;
+    sub \uni17CE \uni17B6  by \uni17CE.lig;
+} LigatureSubstitutionlookup40;
+
+lookup ligaStandardLigaturesinKhmerlookup11 {
+  lookupflag 0;
+    sub [\uni178017B6 \uni178117B6 \uni178217B6 \uni178317B6 \uni178417B6 \uni178517B6 
+	\uni178617B6 \uni178717B6 \uni178817B6 \uni178917B6 \uni178A17B6 
+	\uni178B17B6 \uni178C17B6 \uni178D17B6 \uni178E17B6 \uni178F17B6 
+	\uni179017B6 \uni179117B6 \uni179217B6 \uni179317B6 \uni179417B6 
+	\uni179517B6 \uni179617B6 \uni179717B6 \uni179817B6 \uni179917B6 
+	\uni179A17B6 \uni179B17B6 \uni179C17B6 \uni179D17B6 \uni179E17B6 
+	\uni179F17B6 \uni17A017B6 \uni17A117B6 \uni17A217B6 ] [\uni17C6 \uni17C9 \uni17CA \uni17CC \uni17CE \uni17D21780 \uni17D21781 
+	\uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 \uni17D21787 
+	\uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B \uni17D2178C 
+	\uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 \uni17D21792 
+	\uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 \uni17D21798 
+	\uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 
+	\uni17D2178A.lig2 \uni17D2178B.lig2 \uni17D2178C.lig2 
+	\uni17D2178E.lig2 \uni17D217A0.lig2 ]'lookup LigatureSubstitutionlookup40  [\uni17B6 \uni17C4 \uni17C5 ]'lookup LigatureSubstitutionlookup40  ;
+    sub [\uni178017C5 \uni178117C5 \uni178217C5 \uni178317C5 \uni178417C5 \uni178517C5 
+	\uni178617C5 \uni178717C5 \uni178817C5 \uni178917C5 \uni178A17C5 
+	\uni178B17C5 \uni178C17C5 \uni178D17C5 \uni178E17C5 \uni178F17C5 
+	\uni179017C5 \uni179117C5 \uni179217C5 \uni179317C5 \uni179417C5 
+	\uni179517C5 \uni179617C5 \uni179717C5 \uni179817C5 \uni179917C5 
+	\uni179A17C5 \uni179B17C5 \uni179C17C5 \uni179D17C5 \uni179E17C5 
+	\uni179F17C5 \uni17A017C5 \uni17A117C5 \uni17A217C5 ] [\uni17C6 \uni17C9 \uni17CA \uni17CC \uni17CE \uni17D21780 \uni17D21781 
+	\uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 \uni17D21787 
+	\uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B \uni17D2178C 
+	\uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 \uni17D21792 
+	\uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 \uni17D21798 
+	\uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 
+	\uni17D2178A.lig2 \uni17D2178B.lig2 \uni17D2178C.lig2 
+	\uni17D2178E.lig2 \uni17D217A0.lig2 ]'lookup LigatureSubstitutionlookup40  [\uni17B6 \uni17C4 \uni17C5 ]'lookup LigatureSubstitutionlookup40  ;
+    sub [\uni178917B6.alt ] [\uni17C6 \uni17C9 \uni17CA \uni17CC \uni17CE \uni17D21780 \uni17D21781 
+	\uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 \uni17D21787 
+	\uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B \uni17D2178C 
+	\uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 \uni17D21792 
+	\uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 \uni17D21798 
+	\uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 
+	\uni17D2178A.lig2 \uni17D2178B.lig2 \uni17D2178C.lig2 
+	\uni17D2178E.lig2 \uni17D217A0.lig2 ]'lookup LigatureSubstitutionlookup40  [\uni17B6 \uni17C4 \uni17C5 ]'lookup LigatureSubstitutionlookup40  ;
+    sub [\uni178917C5.alt ] [\uni17C6 \uni17C9 \uni17CA \uni17CC \uni17CE \uni17D21780 \uni17D21781 
+	\uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 \uni17D21787 
+	\uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B \uni17D2178C 
+	\uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 \uni17D21792 
+	\uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 \uni17D21798 
+	\uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 
+	\uni17D2178A.lig2 \uni17D2178B.lig2 \uni17D2178C.lig2 
+	\uni17D2178E.lig2 \uni17D217A0.lig2 ]'lookup LigatureSubstitutionlookup40  [\uni17B6 \uni17C4 \uni17C5 ]'lookup LigatureSubstitutionlookup40  ;
+    sub [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 
+	\uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B 
+	\uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 
+	\uni17D21798 \uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ] [\uni17C6 \uni17C9 \uni17CA \uni17CC \uni17CE \uni17D21780 \uni17D21781 
+	\uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 \uni17D21787 
+	\uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B \uni17D2178C 
+	\uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 \uni17D21792 
+	\uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 \uni17D21798 
+	\uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 
+	\uni17D2178A.lig2 \uni17D2178B.lig2 \uni17D2178C.lig2 
+	\uni17D2178E.lig2 \uni17D217A0.lig2 ]'lookup LigatureSubstitutionlookup40  [\uni17B6 \uni17C4 \uni17C5 ]'lookup LigatureSubstitutionlookup40  ;
+    sub [\uni17D21780.lig1 \uni17D21781.lig1 \uni17D21782.lig1 \uni17D21784.lig1 
+	\uni17D21785.lig1 \uni17D21786.lig1 \uni17D21787.lig1 
+	\uni17D21789.lig1 \uni17D21789.alt.lig1 \uni17D2178A.lig1 
+	\uni17D2178B.lig1 \uni17D2178C.lig1 \uni17D2178E.lig1 
+	\uni17D2178F.lig1 \uni17D21790.lig1 \uni17D21791.lig1 
+	\uni17D21792.lig1 \uni17D21793.lig1 \uni17D21795.lig1 
+	\uni17D21796.lig1 \uni17D21797.lig1 \uni17D21798.lig1 
+	\uni17D2179B.lig1 \uni17D2179C.lig1 \uni17D217A0.lig1 
+	\uni17D217A2.lig1 ] [\uni17C6 \uni17C9 \uni17CA \uni17CC \uni17CE \uni17D21780 \uni17D21781 
+	\uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 \uni17D21787 
+	\uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B \uni17D2178C 
+	\uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 \uni17D21792 
+	\uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 \uni17D21798 
+	\uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 
+	\uni17D2178A.lig2 \uni17D2178B.lig2 \uni17D2178C.lig2 
+	\uni17D2178E.lig2 \uni17D217A0.lig2 ]'lookup LigatureSubstitutionlookup40  [\uni17B6 \uni17C4 \uni17C5 ]'lookup LigatureSubstitutionlookup40  ;
+    sub [\uni17D2178317B6 \uni17D2178817B6 \uni17D2178D17B6 \uni17D2179417B6 
+	\uni17D2179917B6 \uni17D2179F17B6 ] [\uni17C6 \uni17C9 \uni17CA \uni17CC \uni17CE \uni17D21780 \uni17D21781 
+	\uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 \uni17D21787 
+	\uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B \uni17D2178C 
+	\uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 \uni17D21792 
+	\uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 \uni17D21798 
+	\uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 
+	\uni17D2178A.lig2 \uni17D2178B.lig2 \uni17D2178C.lig2 
+	\uni17D2178E.lig2 \uni17D217A0.lig2 ]'lookup LigatureSubstitutionlookup40  [\uni17B6 \uni17C4 \uni17C5 ]'lookup LigatureSubstitutionlookup40  ;
+} ligaStandardLigaturesinKhmerlookup11;
+
+lookup ligaStandardLigaturesinKhmerlookup12 {
+  lookupflag 0;
+    sub [\uni178E ] [\uni17D2178A \uni17D2178B \uni17D2178C \uni17D2178F \uni17D217A0 ]'  by [\uni17D2178A.lig1 \uni17D2178B.lig1 
+	\uni17D2178C.lig1 \uni17D2178F.lig1 \uni17D217A0.lig1 ];
+} ligaStandardLigaturesinKhmerlookup12;
+
+lookup abvsAboveBaseSubstitutionsinKhmerlookup13 {
+  lookupflag 0;
+    sub \uni17B7 \uni17CD  by \uni17B717CD;
+} abvsAboveBaseSubstitutionsinKhmerlookup13;
+
+lookup blwfBelowBaseFormsinKhmerlookup14 {
+  lookupflag 0;
+    sub [\uni179A \uni179C ] [\uni17D2178A \uni17D2178F \uni17D21797 \uni17D21798 ]'  by [\uni17D2178A.ro \uni17D2178A.ro 
+	\uni17D21797.ro \uni17D21798.ro ];
+} blwfBelowBaseFormsinKhmerlookup14;
+
+lookup SingleSubstitutionlookup43 {
+  lookupflag 0;
+    sub \uni17B7 by \uni17B7.ro ;
+    sub \uni17B8 by \uni17B8.ro ;
+    sub \uni17B9 by \uni17B9.ro ;
+    sub \uni17BA by \uni17BA.ro ;
+    sub \uni17C6 by \uni17C6.ro ;
+    sub \uni17C9 by \uni17C9.ro ;
+    sub \uni17CD by \uni17CD.ro ;
+    sub \uni17B717CD by \uni17B717CD.ro ;
+} SingleSubstitutionlookup43;
+
+lookup abvsAboveBaseSubstitutionsinKhmerlookup15 {
+  lookupflag 0;
+    sub [\uni179A \uni179C ] [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17C9 \uni17CD \uni17B717CD ]'lookup SingleSubstitutionlookup43  ;
+    sub [\uni179A \uni179C ] [\uni17D2178A.ro \uni17D21797.ro \uni17D21798.ro ] [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17C9 \uni17CD \uni17B717CD ]'lookup SingleSubstitutionlookup43  ;
+    sub [\uni179A \uni179C ] [\uni17BB ] [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17C9 \uni17CD \uni17B717CD ]'lookup SingleSubstitutionlookup43  ;
+} abvsAboveBaseSubstitutionsinKhmerlookup15;
+
+lookup AlternateSubstitutionlookup44 {
+  lookupflag 0;
+    sub \uni17D2178A from [\uni17D2178A.lig2 ];
+    sub \uni17D2178B from [\uni17D2178B.lig2 \uni17D2178B.lig2 ];
+    sub \uni17D2178E from [\uni17D2178E.lig2 ];
+    sub \uni17D2178F from [\uni17D2178A.lig2 ];
+    sub \uni17D217A0 from [\uni17D217A0.lig2 ];
+    sub \uni17D2178A.lig1 from [\uni17D2178A.lig2 ];
+    sub \uni17D2178B.lig1 from [\uni17D2178B.lig2 ];
+    sub \uni17D2178C.lig1 from [\uni17D2178C.lig2 ];
+    sub \uni17D2178E.lig1 from [\uni17D2178E.lig2 ];
+    sub \uni17D2178F.lig1 from [\uni17D2178A.lig2 ];
+    sub \uni17D217A0.lig1 from [\uni17D217A0.lig2 ];
+} AlternateSubstitutionlookup44;
+
+lookup ligaStandardLigaturesinKhmerlookup16 {
+  lookupflag 0;
+    sub [\uni178E17B6 ] [\uni17D2178A \uni17D2178B \uni17D2178E \uni17D2178F \uni17D217A0 
+	\uni17D2178A.lig1 \uni17D2178B.lig1 \uni17D2178C.lig1 
+	\uni17D2178E.lig1 \uni17D2178F.lig1 \uni17D217A0.lig1 ]'lookup AlternateSubstitutionlookup44  ;
+    sub [\uni178E17C5 ] [\uni17D2178A \uni17D2178B \uni17D2178E \uni17D2178F \uni17D217A0 
+	\uni17D2178A.lig1 \uni17D2178B.lig1 \uni17D2178C.lig1 
+	\uni17D2178E.lig1 \uni17D2178F.lig1 \uni17D217A0.lig1 ]'lookup AlternateSubstitutionlookup44  ;
+} ligaStandardLigaturesinKhmerlookup16;
+
+lookup ligaStandardLigaturesinKhmerlookup17 {
+  lookupflag 0;
+    sub [\uni178E ] [\uni17BB \uni17BC \uni17BD ]'  by [\uni17BB.178E \uni17BC.178E \uni17BD.178E ];
+} ligaStandardLigaturesinKhmerlookup17;
+
+lookup ligaStandardLigaturesinKhmerlookup18 {
+  lookupflag 0;
+    sub [\uni17D21780.lig1 \uni17D21781.lig1 \uni17D21782.lig1 \uni17D21784.lig1 
+	\uni17D21785.lig1 \uni17D21786.lig1 \uni17D21787.lig1 
+	\uni17D21789.lig1 \uni17D21789.alt.lig1 \uni17D2178A.lig1 
+	\uni17D2178B.lig1 \uni17D2178C.lig1 \uni17D2178E.lig1 
+	\uni17D2178F.lig1 \uni17D21790.lig1 \uni17D21791.lig1 
+	\uni17D21792.lig1 \uni17D21793.lig1 \uni17D21795.lig1 
+	\uni17D21796.lig1 \uni17D21797.lig1 \uni17D21798.lig1 
+	\uni17D2179B.lig1 \uni17D2179C.lig1 \uni17D217A0.lig1 
+	\uni17D217A2.lig1 ] [\uni17BB \uni17BC \uni17BD \uni17BB.sec \uni17BC.sec \uni17BD.sec ]'  by [\uni17BB.178E.sec \uni17BC.178E.sec 
+	\uni17BD.178E.sec \uni17BB.178E.sec \uni17BC.178E.sec \uni17BD.178E.sec ];
+} ligaStandardLigaturesinKhmerlookup18;
+
+lookup SingleSubstitutionlookup47 {
+  lookupflag 0;
+    sub \uni17BF by \uni17BF.sec ;
+    sub \uni17C0 by \uni17C0.sec ;
+    sub \uni17D21783 by \uni17D21783.sec ;
+    sub \uni17D21788 by \uni17D21788.sec ;
+    sub \uni17D2178D by \uni17D2178D.sec ;
+    sub \uni17D21794 by \uni17D21794.sec ;
+    sub \uni17D21799 by \uni17D21799.sec ;
+    sub \uni17D2179F by \uni17D2179F.sec ;
+} SingleSubstitutionlookup47;
+
+lookup ligaStandardLigaturesinKhmerlookup19 {
+  lookupflag 0;
+    sub [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 
+	\uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B 
+	\uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 
+	\uni17D21798 \uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ] [\uni17BF \uni17C0 \uni17D21783 \uni17D21788 \uni17D2178D \uni17D21794 
+	\uni17D21799 \uni17D2179F ]'lookup SingleSubstitutionlookup47  ;
+    sub [\uni17BF \uni17C0 \uni17D21783 \uni17D21788 \uni17D2178D \uni17D21794 
+	\uni17D21799 \uni17D2179F ] [\uni17BF \uni17C0 \uni17D21783 \uni17D21788 \uni17D2178D \uni17D21794 
+	\uni17D21799 \uni17D2179F ]'lookup SingleSubstitutionlookup47  ;
+    sub [\uni17A1 ] [\uni17BF \uni17C0 \uni17D21783 \uni17D21788 \uni17D2178D \uni17D21794 
+	\uni17D21799 \uni17D2179F ]'lookup SingleSubstitutionlookup47  ;
+} ligaStandardLigaturesinKhmerlookup19;
+
+lookup ligaStandardLigaturesinKhmerlookup20 {
+  lookupflag 0;
+    sub [\uni1789 ] [\uni17BF \uni17C0 ]'  by [\uni17BF.sec \uni17C0.sec ];
+} ligaStandardLigaturesinKhmerlookup20;
+
+lookup SingleSubstitutionlookup49 {
+  lookupflag 0;
+    sub \uni17D2179A by \uni17D2179A.sec ;
+} SingleSubstitutionlookup49;
+
+lookup ligaStandardLigaturesinKhmerlookup21 {
+  lookupflag 0;
+    sub [\uni17D2179A ]'lookup SingleSubstitutionlookup49  [\uni1780 \uni1781 \uni1782 \uni1783 \uni1784 \uni1785 \uni1786 \uni1787 \uni1788 
+	\uni1789 \uni178A \uni178B \uni178C \uni178D \uni178E \uni178F \uni1790 
+	\uni1791 \uni1792 \uni1793 \uni1794 \uni1795 \uni1796 \uni1797 \uni1798 
+	\uni1799 \uni179A \uni179B \uni179C \uni179D \uni179E \uni179F \uni17A0 
+	\uni17A1 \uni17A2 ] [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 
+	\uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B 
+	\uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 
+	\uni17D21798 \uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ] ;
+    sub [\uni17D2179A ]'lookup SingleSubstitutionlookup49  [\uni178017B6 \uni178117B6 \uni178217B6 \uni178317B6 \uni178417B6 \uni178517B6 
+	\uni178617B6 \uni178717B6 \uni178817B6 \uni178917B6 \uni178A17B6 
+	\uni178B17B6 \uni178C17B6 \uni178D17B6 \uni178E17B6 \uni178F17B6 
+	\uni179017B6 \uni179117B6 \uni179217B6 \uni179317B6 \uni179417B6 
+	\uni179517B6 \uni179617B6 \uni179717B6 \uni179817B6 \uni179917B6 
+	\uni179A17B6 \uni179B17B6 \uni179C17B6 \uni179D17B6 \uni179E17B6 
+	\uni179F17B6 \uni17A017B6 \uni17A117B6 \uni17A217B6 ] [\uni17D21780.lig1 \uni17D21781.lig1 \uni17D21782.lig1 \uni17D21784.lig1 
+	\uni17D21785.lig1 \uni17D21786.lig1 \uni17D21787.lig1 
+	\uni17D21789.lig1 \uni17D21789.alt.lig1 \uni17D2178A.lig1 
+	\uni17D2178B.lig1 \uni17D2178C.lig1 \uni17D2178E.lig1 
+	\uni17D2178F.lig1 \uni17D21790.lig1 \uni17D21791.lig1 
+	\uni17D21792.lig1 \uni17D21793.lig1 \uni17D21795.lig1 
+	\uni17D21796.lig1 \uni17D21797.lig1 \uni17D21798.lig1 
+	\uni17D2179B.lig1 \uni17D2179C.lig1 \uni17D217A0.lig1 
+	\uni17D217A2.lig1 ] ;
+    sub [\uni17D2179A ]'lookup SingleSubstitutionlookup49  [\uni178017C5 \uni178117C5 \uni178217C5 \uni178317C5 \uni178417C5 \uni178517C5 
+	\uni178617C5 \uni178717C5 \uni178817C5 \uni178917C5 \uni178A17C5 
+	\uni178B17C5 \uni178C17C5 \uni178D17C5 \uni178E17C5 \uni178F17C5 
+	\uni179017C5 \uni179117C5 \uni179217C5 \uni179317C5 \uni179417C5 
+	\uni179517C5 \uni179617C5 \uni179717C5 \uni179817C5 \uni179917C5 
+	\uni179A17C5 \uni179B17C5 \uni179C17C5 \uni179D17C5 \uni179E17C5 
+	\uni179F17C5 \uni17A017C5 \uni17A117C5 \uni17A217C5 ] [\uni17D21780.lig1 \uni17D21781.lig1 \uni17D21782.lig1 \uni17D21784.lig1 
+	\uni17D21785.lig1 \uni17D21786.lig1 \uni17D21787.lig1 
+	\uni17D21789.lig1 \uni17D21789.alt.lig1 \uni17D2178A.lig1 
+	\uni17D2178B.lig1 \uni17D2178C.lig1 \uni17D2178E.lig1 
+	\uni17D2178F.lig1 \uni17D21790.lig1 \uni17D21791.lig1 
+	\uni17D21792.lig1 \uni17D21793.lig1 \uni17D21795.lig1 
+	\uni17D21796.lig1 \uni17D21797.lig1 \uni17D21798.lig1 
+	\uni17D2179B.lig1 \uni17D2179C.lig1 \uni17D217A0.lig1 
+	\uni17D217A2.lig1 ] ;
+} ligaStandardLigaturesinKhmerlookup21;
+
+lookup SingleSubstitutionlookup50 {
+  lookupflag 0;
+    sub \uni17B7 by \uni17B7.sec ;
+    sub \uni17B8 by \uni17B8.sec ;
+    sub \uni17B9 by \uni17B9.sec ;
+    sub \uni17BA by \uni17BA.sec ;
+    sub \uni17C6 by \uni17C6.sec ;
+    sub \uni17CE by \uni17CE.sec ;
+    sub \uni17D0 by \uni17D0.sec ;
+} SingleSubstitutionlookup50;
+
+lookup abvsAboveBaseSubstitutionsinKhmerlookup22 {
+  lookupflag 0;
+    sub [\uni1794 ] [\uni17CA ] [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17CE \uni17D0 ]'lookup SingleSubstitutionlookup50  ;
+    sub [\uni17A2 ] [\uni17CA ] [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17CE \uni17D0 ]'lookup SingleSubstitutionlookup50  ;
+} abvsAboveBaseSubstitutionsinKhmerlookup22;
+
+lookup SingleSubstitutionlookup51 {
+  lookupflag 0;
+    sub \uni17BB by \uni17BB.sec ;
+    sub \uni17C9 by \uni17BB.sec ;
+    sub \uni17C9.lig by \uni17BB.178E.sec ;
+} SingleSubstitutionlookup51;
+
+lookup ligaStandardLigaturesinKhmerlookup23 {
+  lookupflag 0;
+    sub [\uni1780 \uni1781 \uni1782 \uni1783 \uni1784 \uni1785 \uni1786 \uni1787 \uni1788 
+	\uni1789 \uni178A \uni178B \uni178C \uni178D \uni178E \uni178F \uni1790 
+	\uni1791 \uni1792 \uni1793 \uni1794 \uni1795 \uni1796 \uni1797 \uni1798 
+	\uni1799 \uni179A \uni179B \uni179C \uni179D \uni179E \uni179F \uni17A0 
+	\uni17A1 \uni17A2 ] [\uni17BB \uni17C9 \uni17C9.lig ]'lookup SingleSubstitutionlookup51  [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 
+	\uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B 
+	\uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 
+	\uni17D21798 \uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ] [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17CE \uni17D0 ] ;
+    sub [\uni1780 \uni1781 \uni1782 \uni1783 \uni1784 \uni1785 \uni1786 \uni1787 \uni1788 
+	\uni1789 \uni178A \uni178B \uni178C \uni178D \uni178E \uni178F \uni1790 
+	\uni1791 \uni1792 \uni1793 \uni1794 \uni1795 \uni1796 \uni1797 \uni1798 
+	\uni1799 \uni179A \uni179B \uni179C \uni179D \uni179E \uni179F \uni17A0 
+	\uni17A1 \uni17A2 ] [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 
+	\uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B 
+	\uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 
+	\uni17D21798 \uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ] [\uni17BB \uni17C9 \uni17C9.lig ]'lookup SingleSubstitutionlookup51  [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17CE \uni17D0 ] ;
+    sub [\uni17BF \uni17C0 \uni17D21783 \uni17D21788 \uni17D2178D \uni17D21794 
+	\uni17D21799 \uni17D2179F ] [\uni17BB \uni17C9 \uni17C9.lig ]'lookup SingleSubstitutionlookup51  [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17CE \uni17D0 ] ;
+    sub [\uni1789 ] [\uni17BB \uni17C9 \uni17C9.lig ]'lookup SingleSubstitutionlookup51  [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17CE \uni17D0 ] ;
+    sub [\uni178917B6 ] [\uni17BB \uni17C9 \uni17C9.lig ]'lookup SingleSubstitutionlookup51  [\uni17C6 ] ;
+} ligaStandardLigaturesinKhmerlookup23;
+
+lookup SingleSubstitutionlookup52 {
+  lookupflag 0;
+    sub \uni17CA by \uni17BB ;
+} SingleSubstitutionlookup52;
+
+lookup ligaStandardLigaturesinKhmerlookup24 {
+  lookupflag 0;
+    sub [\uni179F ] [\uni17CA ]'lookup SingleSubstitutionlookup52  [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17CE \uni17D0 ] ;
+    sub [\uni179F ] [\uni17CA ]'lookup SingleSubstitutionlookup52  [\uni17BE ] ;
+    sub [\uni17A0 ] [\uni17CA ]'lookup SingleSubstitutionlookup52  [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17CE \uni17D0 ] ;
+    sub [\uni17A0 ] [\uni17CA ]'lookup SingleSubstitutionlookup52  [\uni17BE ] ;
+} ligaStandardLigaturesinKhmerlookup24;
+
+lookup SingleSubstitutionlookup53 {
+  lookupflag 0;
+    sub \uni17CA by \uni17BB.sec ;
+} SingleSubstitutionlookup53;
+
+lookup ligaStandardLigaturesinKhmerlookup25 {
+  lookupflag 0;
+    sub [\uni179F ] [\uni17CA ]'lookup SingleSubstitutionlookup53  [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 
+	\uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B 
+	\uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 
+	\uni17D21798 \uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ] [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17CE \uni17D0 ] ;
+    sub [\uni179F ] [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 
+	\uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B 
+	\uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 
+	\uni17D21798 \uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ] [\uni17CA ]'lookup SingleSubstitutionlookup53  [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17CE \uni17D0 ] ;
+    sub [\uni17A0 ] [\uni17CA ]'lookup SingleSubstitutionlookup53  [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 
+	\uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B 
+	\uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 
+	\uni17D21798 \uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ] [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17CE \uni17D0 ] ;
+    sub [\uni17A0 ] [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 
+	\uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B 
+	\uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 
+	\uni17D21798 \uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ] [\uni17CA ]'lookup SingleSubstitutionlookup53  [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17CE \uni17D0 ] ;
+    sub [\uni17BF \uni17C0 \uni17D21783 \uni17D21788 \uni17D2178D \uni17D21794 
+	\uni17D21799 \uni17D2179F ] [\uni17CA ]'lookup SingleSubstitutionlookup53  [\uni17B7 \uni17B8 \uni17B9 \uni17BA \uni17C6 \uni17CE \uni17D0 ] ;
+} ligaStandardLigaturesinKhmerlookup25;
+
+lookup SingleSubstitutionlookup54 {
+  lookupflag 0;
+    sub \uni17BB by \uni17BB.sec ;
+    sub \uni17BC by \uni17BC.sec ;
+    sub \uni17BD by \uni17BD.sec ;
+} SingleSubstitutionlookup54;
+
+lookup ligaStandardLigaturesinKhmerlookup26 {
+  lookupflag 0;
+    sub [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 
+	\uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B 
+	\uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 
+	\uni17D21798 \uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ] [\uni17BB \uni17BC \uni17BD ]'lookup SingleSubstitutionlookup54  ;
+    sub [\uni17BF \uni17C0 \uni17D21783 \uni17D21788 \uni17D2178D \uni17D21794 
+	\uni17D21799 \uni17D2179F ] [\uni17BB \uni17BC \uni17BD ]'lookup SingleSubstitutionlookup54  ;
+    sub [\uni1789 ] [\uni17BB \uni17BC \uni17BD ]'lookup SingleSubstitutionlookup54  ;
+    sub [\uni17A1 ] [\uni17BB \uni17BC \uni17BD ]'lookup SingleSubstitutionlookup54  ;
+    sub [\uni17BB \uni17BC \uni17BD ]'lookup SingleSubstitutionlookup54  [\uni17BF \uni17C0 \uni17D21783 \uni17D21788 \uni17D2178D \uni17D21794 
+	\uni17D21799 \uni17D2179F ] ;
+} ligaStandardLigaturesinKhmerlookup26;
+
+lookup SingleSubstitutionlookup55 {
+  lookupflag 0;
+    sub \uni17C9.lig by \uni17C9 ;
+} SingleSubstitutionlookup55;
+
+lookup ligaStandardLigaturesinKhmerlookup27 {
+  lookupflag 0;
+    sub [\uni179A17B6 ] [\uni17C9.lig ]'lookup SingleSubstitutionlookup55  ;
+    sub [\uni179A17C5 ] [\uni17C9.lig ]'lookup SingleSubstitutionlookup55  ;
+    sub [\uni179C17B6 ] [\uni17C9.lig ]'lookup SingleSubstitutionlookup55  ;
+    sub [\uni179C17C5 ] [\uni17C9.lig ]'lookup SingleSubstitutionlookup55  ;
+} ligaStandardLigaturesinKhmerlookup27;
+
+lookup SingleSubstitutionlookup56 {
+  lookupflag 0;
+    sub \uni17BB by \uni17BB.178E ;
+    sub \uni17C9 by \uni17BB.178E ;
+    sub \uni17C9.lig by \uni17BB.178E ;
+    sub \uni17CA.lig by \uni17BB.178E ;
+} SingleSubstitutionlookup56;
+
+lookup ligaStandardLigaturesinKhmerlookup28 {
+  lookupflag 0;
+    sub [\uni179817B6 ] [\uni17BB \uni17C9 \uni17C9.lig \uni17CA.lig ]'lookup SingleSubstitutionlookup56  [\uni17C6 ] ;
+    sub [\uni179917B6 ] [\uni17BB \uni17C9 \uni17C9.lig \uni17CA.lig ]'lookup SingleSubstitutionlookup56  [\uni17C6 ] ;
+    sub [\uni179A17B6 ] [\uni17BB \uni17C9 \uni17C9.lig \uni17CA.lig ]'lookup SingleSubstitutionlookup56  [\uni17C6 ] ;
+    sub [\uni179C17B6 ] [\uni17BB \uni17C9 \uni17C9.lig \uni17CA.lig ]'lookup SingleSubstitutionlookup56  [\uni17C6 ] ;
+    sub [\uni179F17B6 ] [\uni17BB \uni17C9 \uni17C9.lig \uni17CA.lig ]'lookup SingleSubstitutionlookup56  [\uni17C6 ] ;
+} ligaStandardLigaturesinKhmerlookup28;
+
+lookup SingleSubstitutionlookup57 {
+  lookupflag 0;
+    sub \uni17D21798 by \uni17D21798.sec ;
+    sub \uni17D217A0 by \uni17D217A0.sec ;
+} SingleSubstitutionlookup57;
+
+lookup ligaStandardLigaturesinKhmerlookup29 {
+  lookupflag 0;
+    sub [\uni17D2179F ] [\uni17D21798 \uni17D217A0 ]'lookup SingleSubstitutionlookup57  ;
+    sub [\uni17A1 ] [\uni17D21798 \uni17D217A0 ]'lookup SingleSubstitutionlookup57  ;
+} ligaStandardLigaturesinKhmerlookup29;
+
+lookup SingleSubstitutionlookup58 {
+  lookupflag 0;
+    sub \uni17D2179A.sec by \uni17D2179A ;
+} SingleSubstitutionlookup58;
+
+lookup ligaStandardLigaturesinKhmerlookup30 {
+  lookupflag 0;
+    sub [\uni17D2179A.sec ]'lookup SingleSubstitutionlookup58  [\uni179F17B6 ] ;
+    sub [\uni17D2179A.sec ]'lookup SingleSubstitutionlookup58  [\uni179F ] ;
+} ligaStandardLigaturesinKhmerlookup30;
+
+lookup ligaStandardLigaturesinKhmerlookup31 {
+  lookupflag 0;
+    sub [\uni178017B6 \uni178117B6 \uni178217B6 \uni178317B6 \uni178417B6 \uni178517B6 
+	\uni178617B6 \uni178717B6 \uni178817B6 \uni178917B6 \uni178A17B6 
+	\uni178B17B6 \uni178C17B6 \uni178D17B6 \uni178E17B6 \uni178F17B6 
+	\uni179017B6 \uni179117B6 \uni179217B6 \uni179317B6 \uni179417B6 
+	\uni179517B6 \uni179617B6 \uni179717B6 \uni179817B6 \uni179917B6 
+	\uni179A17B6 \uni179B17B6 \uni179C17B6 \uni179D17B6 \uni179E17B6 
+	\uni179F17B6 \uni17A017B6 \uni17A117B6 \uni17A217B6 ] [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 \uni17D21786 
+	\uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A \uni17D2178B 
+	\uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 
+	\uni17D21798 \uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ]' [\uni17C6 ]  by [\uni17D21780.lig1 \uni17D21781.lig1 
+	\uni17D21782.lig1 \uni17D21784.lig1 \uni17D21785.lig1 \uni17D21786.lig1 
+	\uni17D21787.lig1 \uni17D21789.lig1 \uni17D21789.alt.lig1 \uni17D2178A.lig1 
+	\uni17D2178B.lig1 \uni17D2178C.lig1 \uni17D2178E.lig1 \uni17D2178F.lig1 
+	\uni17D21790.lig1 \uni17D21791.lig1 \uni17D21792.lig1 \uni17D21793.lig1 
+	\uni17D21795.lig1 \uni17D21796.lig1 \uni17D21797.lig1 \uni17D21798.lig1 
+	\uni17D2179B.lig1 \uni17D2179C.lig1 \uni17D217A0.lig1 \uni17D217A2.lig1 ];
+} ligaStandardLigaturesinKhmerlookup31;
+
+lookup ligaStandardLigaturesinKhmerlookup32 {
+  lookupflag 0;
+    sub \uni17D2 \uni178317B6  by \uni17D2178317B6;
+    sub \uni17D2 \uni178817B6  by \uni17D2178817B6;
+    sub \uni17D2 \uni178D17B6  by \uni17D2178D17B6;
+    sub \uni17D2 \uni179417B6  by \uni17D2179417B6;
+    sub \uni17D2 \uni179917B6  by \uni17D2179917B6;
+    sub \uni17D2 \uni179F17B6  by \uni17D2179F17B6;
+} ligaStandardLigaturesinKhmerlookup32;
+
+lookup 10RequiredLigaturesinKhmerlookup60 {
+  lookupflag 0;
+    sub \uni178517B6 \uni17BF  by \uni179C17B6;
+    sub \uni178517B6 \uni17C0  by \uni179D17B6;
+    sub \uni178517B6 \uni17C1  by \uni179E17B6;
+    sub \uni178517B6 \uni17C2  by \uni179F17B6;
+    sub \uni178517B6 \uni17C3  by \uni17A017B6;
+    sub \uni178517B6 \uni17C4  by \uni17A117B6;
+    sub \uni178517B6 \uni17C5  by \uni17A217B6;
+    sub \uni178517B6 \uni17C6  by \uni17D2178317B6;
+    sub \uni178517B6 \uni17C7  by \uni17D2178817B6;
+    sub \uni178517B6 \uni17C8  by \uni17D2178D17B6;
+    sub \uni178517B6 \uni17C9  by \uni17D2179917B6;
+    sub \uni178517B6 \uni17CA  by \uni17D2179F17B6;
+    sub \uni178517B6 \uni17CB  by \uni178917B6.alt;
+    sub \uni178517B6 \uni17CC  by \uni178017C5;
+    sub \uni178517B6 \uni17CD  by \uni178117C5;
+    sub \uni178517B6 \uni17CE  by \uni178217C5;
+    sub \uni178517B6 \uni17CF  by \uni178317C5;
+    sub \uni178517B6 \uni17D0  by \uni178417C5;
+    sub \uni178517B6 \uni17D1  by \uni178517C5;
+    sub \uni178517B6 \uni17D2  by \uni178617C5;
+    sub \uni178517B6 \uni17D3  by \uni178717C5;
+    sub \uni178517B6 \uni17D4  by \uni178817C5;
+    sub \uni178517B6 \uni17D5  by \uni178917C5;
+    sub \uni178517B6 \uni17D6  by \uni178A17C5;
+    sub \uni178517B6 \uni17D7  by \uni178B17C5;
+    sub \uni178517B6 \uni17D8  by \uni178C17C5;
+    sub \uni178517B6 \uni17D9  by \uni178D17C5;
+    sub \uni178517B6 \uni17DA  by \uni178E17C5;
+    sub \uni178517B6 \uni17DB  by \uni178F17C5;
+    sub \uni178517B6 \uni17E2  by \uni179017C5;
+    sub \uni178517B6 \uni17E3  by \uni179117C5;
+    sub \uni178517B6 \uni17E5  by \uni179217C5;
+    sub \uni17D2178A \uni178017B6  by \uni19EA;
+} 10RequiredLigaturesinKhmerlookup60;
+
+lookup 641inKhmerlookup70 {
+  lookupflag 0;
+    sub \uni17D21791 by \uni17D21794 ;
+    sub \uni17D21792 by \uni17D21794 ;
+    sub \uni17D21793 by \uni17D21794 ;
+    sub \uni17D21794 by \uni17D21794 ;
+    sub \uni17D21795 by \uni17D21795 ;
+    sub \uni17D21796 by \uni17D21796 ;
+    sub \uni17D21797 by \uni17D21794 ;
+    sub \uni17D21798 by \uni17D21794 ;
+} 641inKhmerlookup70;
+
+lookup 280inKhmerlookup74 {
+  lookupflag 0;
+    sub \uni17BF \uni17D21797  by \uni179317C5;
+    sub \uni17BF \uni17D21789.alt  by \uni179317C5;
+    sub \uni17C0 \uni17D21797  by \uni179417C5;
+    sub \uni17C0 \uni17D21789.alt  by \uni179417C5;
+    sub \uni17C1 \uni17D21797  by \uni179517C5;
+    sub \uni17C1 \uni17D21789.alt  by \uni179517C5;
+    sub \uni17C2 \uni17D21797  by \uni179617C5;
+    sub \uni17C2 \uni17D21789.alt  by \uni179617C5;
+    sub \uni17C3 \uni17D21797  by \uni179717C5;
+    sub \uni17C3 \uni17D21789.alt  by \uni179717C5;
+    sub \uni17C4 \uni17D21797  by \uni179817C5;
+    sub \uni17C4 \uni17D21789.alt  by \uni179817C5;
+    sub \uni17C5 \uni17D21797  by \uni179917C5;
+    sub \uni17C5 \uni17D21789.alt  by \uni179917C5;
+    sub \uni17C6 \uni17D21797  by \uni179A17C5;
+    sub \uni17C6 \uni17D21789.alt  by \uni179A17C5;
+    sub \uni17C7 \uni17D21797  by \uni179B17C5;
+    sub \uni17C7 \uni17D21789.alt  by \uni179B17C5;
+    sub \uni17C8 \uni17D21797  by \uni179C17C5;
+    sub \uni17C8 \uni17D21789.alt  by \uni179C17C5;
+    sub \uni17C9 \uni17D21797  by \uni179D17C5;
+    sub \uni17C9 \uni17D21789.alt  by \uni179D17C5;
+    sub \uni17CA \uni17D21797  by \uni179E17C5;
+    sub \uni17CA \uni17D21789.alt  by \uni179E17C5;
+    sub \uni17CB \uni17D21797  by \uni179F17C5;
+    sub \uni17CB \uni17D21789.alt  by \uni179F17C5;
+    sub \uni17CC \uni17D21797  by \uni17A017C5;
+    sub \uni17CC \uni17D21789.alt  by \uni17A017C5;
+    sub \uni17CD \uni17D21797  by \uni17A117C5;
+    sub \uni17CD \uni17D21789.alt  by \uni17A117C5;
+    sub \uni17CE \uni17D21797  by \uni17A217C5;
+    sub \uni17CE \uni17D21789.alt  by \uni17A217C5;
+    sub \uni17CF \uni17D21797  by \uni17D2178317C5;
+    sub \uni17CF \uni17D21789.alt  by \uni17D2178317C5;
+    sub \uni17D0 \uni17D21797  by \uni17D2178817C5;
+    sub \uni17D0 \uni17D21789.alt  by \uni17D2178817C5;
+    sub \uni17D1 \uni17D21797  by \uni17D2178D17C5;
+    sub \uni17D1 \uni17D21789.alt  by \uni17D2178D17C5;
+    sub \uni17D2 \uni17D21797  by \uni17D2179417C5;
+    sub \uni17D2 \uni17D21789.alt  by \uni17D2179417C5;
+    sub \uni17D3 \uni17D21797  by \uni17D2179917C5;
+    sub \uni17D3 \uni17D21789.alt  by \uni17D2179917C5;
+    sub \uni17D4 \uni17D21797  by \uni17D2179F17C5;
+    sub \uni17D4 \uni17D21789.alt  by \uni17D2179F17C5;
+    sub \uni17D5 \uni17D21797  by \uni178917C5.alt;
+    sub \uni17D5 \uni17D21789.alt  by \uni178917C5.alt;
+    sub \uni17D6 \uni17D21797  by \uni1789.alt;
+    sub \uni17D6 \uni17D21789.alt  by \uni1789.alt;
+    sub \uni17D7 \uni17D21797  by \uni17D21780.lig1;
+    sub \uni17D7 \uni17D21789.alt  by \uni17D21780.lig1;
+    sub \uni17D8 \uni17D21797  by \uni17D21781.lig1;
+    sub \uni17D8 \uni17D21789.alt  by \uni17D21781.lig1;
+    sub \uni17D9 \uni17D21797  by \uni17D21782.lig1;
+    sub \uni17D9 \uni17D21789.alt  by \uni17D21782.lig1;
+    sub \uni17DA \uni17D21797  by \uni17D21784.lig1;
+    sub \uni17DA \uni17D21789.alt  by \uni17D21784.lig1;
+    sub \uni17DB \uni17D21797  by \uni17D21785.lig1;
+    sub \uni17DB \uni17D21789.alt  by \uni17D21785.lig1;
+    sub \uni17E0 \uni17D21797  by \uni17D21786.lig1;
+    sub \uni17E0 \uni17D21789.alt  by \uni17D21786.lig1;
+    sub \uni17E1 \uni17D21797  by \uni17D21787.lig1;
+    sub \uni17E1 \uni17D21789.alt  by \uni17D21787.lig1;
+    sub \uni17E2 \uni17D21797  by \uni17D21789.lig1;
+    sub \uni17E2 \uni17D21789.alt  by \uni17D21789.lig1;
+    sub \uni17E3 \uni17D21797  by \uni17D21789.alt.lig1;
+    sub \uni17E3 \uni17D21789.alt  by \uni17D21789.alt.lig1;
+    sub \uni17E4 \uni17D21797  by \uni17D2178A.lig1;
+    sub \uni17E4 \uni17D21789.alt  by \uni17D2178A.lig1;
+    sub \uni17E5 \uni17D21797  by \uni17D2178B.lig1;
+    sub \uni17E5 \uni17D21789.alt  by \uni17D2178B.lig1;
+} 280inKhmerlookup74;
+
+lookup 290inKhmerlookup75 {
+  lookupflag 0;
+    sub \uni179F17B6 \uni17D21789.alt  by \uni17D2178C.lig1;
+    sub \uni17D2178817B6 \uni17D21789.alt  by \uni17D2178E.lig1;
+    sub \uni178017C5 \uni17D21789.alt  by \uni17D2178F.lig1;
+    sub \uni178717C5 \uni17D21789.alt  by \uni17D21790.lig1;
+    sub \uni178C17C5 \uni17D21789.alt  by \uni17D21791.lig1;
+    sub \uni179017C5 \uni17D21789.alt  by \uni17D21792.lig1;
+} 290inKhmerlookup75;
+
+feature blwf {
+
+ script khmr;
+     language dflt ;
+      lookup blwfBelowBaseFormsinKhmerlookup0;
+      lookup ligaStandardLigaturesinKhmerlookup5;
+      lookup ligaStandardLigaturesinKhmerlookup6;
+      lookup ligaStandardLigaturesinKhmerlookup7;
+      lookup ligaStandardLigaturesinKhmerlookup9;
+      lookup ligaStandardLigaturesinKhmerlookup12;
+      lookup blwfBelowBaseFormsinKhmerlookup14;
+      lookup ligaStandardLigaturesinKhmerlookup16;
+      lookup ligaStandardLigaturesinKhmerlookup17;
+      lookup ligaStandardLigaturesinKhmerlookup18;
+      lookup ligaStandardLigaturesinKhmerlookup23;
+      lookup ligaStandardLigaturesinKhmerlookup24;
+      lookup ligaStandardLigaturesinKhmerlookup25;
+      lookup ligaStandardLigaturesinKhmerlookup26;
+      lookup ligaStandardLigaturesinKhmerlookup29;
+} blwf;
+
+feature pstf {
+
+ script khmr;
+     language dflt ;
+      lookup pstfPostBaseFormsinKhmerlookup1;
+      lookup ligaStandardLigaturesinKhmerlookup19;
+      lookup ligaStandardLigaturesinKhmerlookup20;
+      lookup ligaStandardLigaturesinKhmerlookup25;
+} pstf;
+
+feature pref {
+
+ script khmr;
+     language dflt ;
+      lookup prefPreBaseFormsinKhmerlookup2;
+      lookup ligaStandardLigaturesinKhmerlookup21;
+      lookup ligaStandardLigaturesinKhmerlookup25;
+      lookup ligaStandardLigaturesinKhmerlookup30;
+} pref;
+
+feature clig {
+
+ script khmr;
+     language dflt ;
+      lookup ligaStandardLigaturesinKhmerlookup3;
+      lookup ligaStandardLigaturesinKhmerlookup4;
+      lookup ligaStandardLigaturesinKhmerlookup5;
+      lookup ligaStandardLigaturesinKhmerlookup6;
+      lookup ligaStandardLigaturesinKhmerlookup7;
+      lookup ligaStandardLigaturesinKhmerlookup8;
+      lookup ligaStandardLigaturesinKhmerlookup9;
+      lookup ligaStandardLigaturesinKhmerlookup10;
+      lookup ligaStandardLigaturesinKhmerlookup11;
+      lookup ligaStandardLigaturesinKhmerlookup12;
+      lookup ligaStandardLigaturesinKhmerlookup16;
+      lookup ligaStandardLigaturesinKhmerlookup17;
+      lookup ligaStandardLigaturesinKhmerlookup18;
+      lookup ligaStandardLigaturesinKhmerlookup19;
+      lookup ligaStandardLigaturesinKhmerlookup20;
+      lookup ligaStandardLigaturesinKhmerlookup21;
+      lookup ligaStandardLigaturesinKhmerlookup23;
+      lookup ligaStandardLigaturesinKhmerlookup24;
+      lookup ligaStandardLigaturesinKhmerlookup25;
+      lookup ligaStandardLigaturesinKhmerlookup26;
+      lookup ligaStandardLigaturesinKhmerlookup27;
+      lookup ligaStandardLigaturesinKhmerlookup28;
+      lookup ligaStandardLigaturesinKhmerlookup29;
+      lookup ligaStandardLigaturesinKhmerlookup30;
+      lookup ligaStandardLigaturesinKhmerlookup31;
+      lookup ligaStandardLigaturesinKhmerlookup32;
+} clig;
+
+feature liga {
+
+ script khmr;
+     language dflt ;
+      lookup ligaStandardLigaturesinKhmerlookup3;
+      lookup ligaStandardLigaturesinKhmerlookup4;
+      lookup ligaStandardLigaturesinKhmerlookup5;
+      lookup ligaStandardLigaturesinKhmerlookup6;
+      lookup ligaStandardLigaturesinKhmerlookup7;
+      lookup ligaStandardLigaturesinKhmerlookup8;
+      lookup ligaStandardLigaturesinKhmerlookup9;
+      lookup ligaStandardLigaturesinKhmerlookup10;
+      lookup ligaStandardLigaturesinKhmerlookup11;
+      lookup ligaStandardLigaturesinKhmerlookup12;
+      lookup ligaStandardLigaturesinKhmerlookup16;
+      lookup ligaStandardLigaturesinKhmerlookup17;
+      lookup ligaStandardLigaturesinKhmerlookup18;
+      lookup ligaStandardLigaturesinKhmerlookup19;
+      lookup ligaStandardLigaturesinKhmerlookup20;
+      lookup ligaStandardLigaturesinKhmerlookup21;
+      lookup ligaStandardLigaturesinKhmerlookup23;
+      lookup ligaStandardLigaturesinKhmerlookup24;
+      lookup ligaStandardLigaturesinKhmerlookup25;
+      lookup ligaStandardLigaturesinKhmerlookup26;
+      lookup ligaStandardLigaturesinKhmerlookup27;
+      lookup ligaStandardLigaturesinKhmerlookup28;
+      lookup ligaStandardLigaturesinKhmerlookup29;
+      lookup ligaStandardLigaturesinKhmerlookup30;
+      lookup ligaStandardLigaturesinKhmerlookup31;
+      lookup ligaStandardLigaturesinKhmerlookup32;
+} liga;
+
+feature abvs {
+
+ script khmr;
+     language dflt ;
+      lookup ligaStandardLigaturesinKhmerlookup4;
+      lookup ligaStandardLigaturesinKhmerlookup8;
+      lookup ligaStandardLigaturesinKhmerlookup10;
+      lookup abvsAboveBaseSubstitutionsinKhmerlookup13;
+      lookup abvsAboveBaseSubstitutionsinKhmerlookup15;
+      lookup abvsAboveBaseSubstitutionsinKhmerlookup22;
+      lookup ligaStandardLigaturesinKhmerlookup23;
+      lookup ligaStandardLigaturesinKhmerlookup24;
+      lookup ligaStandardLigaturesinKhmerlookup25;
+      lookup ligaStandardLigaturesinKhmerlookup27;
+      lookup ligaStandardLigaturesinKhmerlookup28;
+} abvs;
+
+feature rlig {
+
+ script DFLT;
+     language dflt ;
+      lookup 10RequiredLigaturesinKhmerlookup60;
+
+ script khmr;
+     language dflt ;
+      lookup 10RequiredLigaturesinKhmerlookup60;
+} rlig;
+
+@GDEF_Simple = [\.notdef \.null \nonmarkingreturn \space \exclam \quotedbl 
+	\numbersign \dollar \percent \ampersand \quotesingle \parenleft \parenright 
+	\asterisk \plus \comma \hyphen \period \slash \zero \one \two \three \four \five 
+	\six \seven \eight \nine \colon \semicolon \less \equal \greater \question \at 
+	\uni1780 \uni1781 \uni1782 \uni1783 \uni1784 \uni1785 \uni1786 \uni1787 \uni1788 
+	\uni1789 \uni178A \uni178B \uni178C \uni178D \uni178E \uni178F \uni1790 \uni1791 
+	\uni1792 \uni1793 \uni1794 \uni1795 \uni1796 \uni1797 \uni1798 \uni1799 \uni179A 
+	\uni179B \uni179C \uni179D \uni179E \uni179F \uni17A0 \uni17A1 \uni17A2 \uni17A3 
+	\uni17A4 \uni17A5 \uni17A6 \uni17A7 \uni17A8 \uni17A9 \uni17AA \uni17AB \uni17AC 
+	\uni17AD \uni17AE \uni17AF \uni17B0 \uni17B1 \uni17B2 \uni17B3 \uni17B6 \uni17B7 
+	\uni17B8 \uni17B9 \uni17BA \uni17BB \uni17BC \uni17BD \uni17BE \uni17BF \uni17C0 
+	\uni17C1 \uni17C2 \uni17C3 \uni17C4 \uni17C5 \uni17C6 \uni17C7 \uni17C8 \uni17C9 
+	\uni17CA \uni17CB \uni17CC \uni17CD \uni17CE \uni17CF \uni17D0 \uni17D1 \uni17D2 
+	\uni17D3 \uni17D4 \uni17D5 \uni17D6 \uni17D7 \uni17D8 \uni17D9 \uni17DA \uni17DB 
+	\uni17E0 \uni17E1 \uni17E2 \uni17E3 \uni17E4 \uni17E5 \uni17E6 \uni17E7 \uni17E8 
+	\uni17E9 \uni200B \uni200C \uni25CC \uni17D21783 \uni17D21788 \uni17D2178D 
+	\uni17D21794 \uni17D21799 \uni17D2179A \uni17D2179F \uni17D2178317B6 
+	\uni17D2178817B6 \uni17D2178D17B6 \uni17D2179417B6 \uni17D2179917B6 
+	\uni17D2179F17B6 \uni178917B6.alt \uni178017C5 \uni178117C5 \uni178217C5 
+	\uni178317C5 \uni178417C5 \uni178517C5 \uni178617C5 \uni178717C5 \uni178817C5 
+	\uni178917C5 \uni178A17C5 \uni178B17C5 \uni178C17C5 \uni178D17C5 \uni178E17C5 
+	\uni178F17C5 \uni179017C5 \uni179117C5 \uni179217C5 \uni179317C5 \uni179417C5 
+	\uni179517C5 \uni179617C5 \uni179717C5 \uni179817C5 \uni179917C5 \uni179A17C5 
+	\uni179B17C5 \uni179C17C5 \uni179D17C5 \uni179E17C5 \uni179F17C5 \uni17A017C5 
+	\uni17A117C5 \uni17A217C5 \uni17D2178317C5 \uni17D2178817C5 \uni17D2178D17C5 
+	\uni17D2179417C5 \uni17D2179917C5 \uni17D2179F17C5 \uni178917C5.alt 
+	\uni1789.alt \uni17D21780.lig1 \uni17D21781.lig1 \uni17D21782.lig1 
+	\uni17D21784.lig1 \uni17D21785.lig1 \uni17D21786.lig1 \uni17D21787.lig1 
+	\uni17D21789.lig1 \uni17D21789.alt.lig1 \uni17D2178A.lig1 \uni17D2178B.lig1 
+	\uni17D2178C.lig1 \uni17D2178E.lig1 \uni17D2178F.lig1 \uni17D21790.lig1 
+	\uni17D21791.lig1 \uni17D21792.lig1 \uni17D21793.lig1 \uni17D21795.lig1 
+	\uni17D21796.lig1 \uni17D21797.lig1 \uni17D21798.lig1 \uni17D2179B.lig1 
+	\uni17D2179C.lig1 \uni17D217A0.lig1 \uni17D217A2.lig1 \uni17D2178A.ro 
+	\uni17D21797.ro \uni17D21798.ro \uni17B7.ro \uni17B8.ro \uni17B9.ro 
+	\uni17BA.ro \uni17C6.ro \uni17C9.ro \uni17CD.ro \uni17B717CD.ro \uni17B717CD 
+	\uni17D2178A.lig2 \uni17D2178B.lig2 \uni17D2178C.lig2 \uni17D2178E.lig2 
+	\uni17D217A0.lig2 \uni17BB.178E \uni17BC.178E \uni17BD.178E 
+	\uni17BB.178E.sec \uni17BC.178E.sec \uni17BD.178E.sec \uni17BF.sec 
+	\uni17C0.sec \uni17D21783.sec \uni17D21788.sec \uni17D2178D.sec 
+	\uni17D21794.sec \uni17D21799.sec \uni17D2179A.sec \uni17D2179F.sec 
+	\uni17B7.sec \uni17B8.sec \uni17B9.sec \uni17BA.sec \uni17C6.sec \uni17CE.sec 
+	\uni17D0.sec \uni17BB.sec \uni17BC.sec \uni17BD.sec \uni17C9.lig \uni17CA.lig 
+	\uni17CC.lig \uni17CE.lig \uni17D21798.sec \uni17D217A0.sec \uni17B4 \uni17B5 
+	\uni17DC \uni17DD \uni17F0 \uni17F1 \uni17F2 \uni17F3 \uni17F4 \uni17F5 \uni17F6 
+	\uni17F7 \uni17F8 \uni17F9 \uni19E0 \uni19E1 \uni19E2 \uni19E3 \uni19E4 \uni19E5 
+	\uni19E6 \uni19E7 \uni19E8 \uni19E9 \uni19EA \uni19EB \uni19EC \uni19ED \uni19EE 
+	\uni19EF \uni19F0 \uni19F1 \uni19F2 \uni19F3 \uni19F4 \uni19F5 \uni19F6 \uni19F7 
+	\uni19F8 \uni19F9 \uni19FA \uni19FB \uni19FC \uni19FD \uni19FE \uni19FF \uni200D 
+	\Out-Of-Range-GID-383 \Out-Of-Range-GID-384 \Out-Of-Range-GID-385 
+	\Out-Of-Range-GID-386 \Out-Of-Range-GID-378 \Out-Of-Range-GID-379 
+	\Out-Of-Range-GID-380 \Out-Of-Range-GID-381 \Out-Of-Range-GID-382 
+	\Out-Of-Range-GID-390 \Out-Of-Range-GID-391 \Out-Of-Range-GID-387 
+	\Out-Of-Range-GID-388 \Out-Of-Range-GID-389 ];
+@GDEF_Ligature = [\uni178017B6 \uni178117B6 \uni178217B6 \uni178317B6 
+	\uni178417B6 \uni178517B6 \uni178617B6 \uni178717B6 \uni178817B6 \uni178917B6 
+	\uni178A17B6 \uni178B17B6 \uni178C17B6 \uni178D17B6 \uni178E17B6 \uni178F17B6 
+	\uni179017B6 \uni179117B6 \uni179217B6 \uni179317B6 \uni179417B6 \uni179517B6 
+	\uni179617B6 \uni179717B6 \uni179817B6 \uni179917B6 \uni179A17B6 \uni179B17B6 
+	\uni179C17B6 \uni179D17B6 \uni179E17B6 \uni179F17B6 \uni17A017B6 \uni17A117B6 
+	\uni17A217B6 ];
+@GDEF_Mark = [\uni17D21780 \uni17D21781 \uni17D21782 \uni17D21784 \uni17D21785 
+	\uni17D21786 \uni17D21787 \uni17D21789 \uni17D21789.alt \uni17D2178A 
+	\uni17D2178B \uni17D2178C \uni17D2178E \uni17D2178F \uni17D21790 \uni17D21791 
+	\uni17D21792 \uni17D21793 \uni17D21795 \uni17D21796 \uni17D21797 \uni17D21798 
+	\uni17D2179B \uni17D2179C \uni17D217A0 \uni17D217A2 ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, ;
+
+} GDEF;
+
