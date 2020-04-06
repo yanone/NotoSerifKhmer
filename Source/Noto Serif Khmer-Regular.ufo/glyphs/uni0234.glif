@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0234" format="2">
+	<advance width="803"/>
+	<unicode hex="0234"/>
+	<note>
+		uni0234
+  </note>
+	<outline>
+		<contour>
+			<point x="494" y="-20" type="qcurve"/>
+			<point x="494" y="-20" type="line"/>
+			<point x="494" y="-20" type="line"/>
+			<point x="494" y="-20" type="line"/>
+			<point x="494" y="-20" type="line"/>
+			<point x="617" y="-20"/>
+			<point x="766" y="117"/>
+			<point x="766" y="231" type="qcurve" smooth="yes"/>
+			<point x="766" y="331"/>
+			<point x="627" y="463"/>
+			<point x="502" y="463" type="qcurve" smooth="yes"/>
+			<point x="456" y="463"/>
+			<point x="414" y="451" type="qcurve"/>
+			<point x="414" y="1556" type="line"/>
+			<point x="37" y="1556" type="line"/>
+			<point x="37" y="1470" type="line"/>
+			<point x="53" y="1470" type="line" smooth="yes"/>
+			<point x="150" y="1470"/>
+			<point x="221" y="1399"/>
+			<point x="221" y="1331" type="qcurve" smooth="yes"/>
+			<point x="221" y="332" type="line"/>
+			<point x="162" y="269"/>
+			<point x="74" y="84"/>
+			<point x="45" y="-35" type="qcurve"/>
+			<point x="152" y="-63" type="line"/>
+			<point x="167" y="6"/>
+			<point x="210" y="125"/>
+			<point x="236" y="174" type="qcurve"/>
+			<point x="260" y="78"/>
+			<point x="393" y="-20"/>
+		</contour>
+		<contour>
+			<point x="500" y="360" type="qcurve"/>
+			<point x="500" y="360" type="line"/>
+			<point x="500" y="360" type="line"/>
+			<point x="500" y="360" type="line"/>
+			<point x="500" y="360" type="line"/>
+			<point x="574" y="360"/>
+			<point x="655" y="291"/>
+			<point x="655" y="231" type="qcurve" smooth="yes"/>
+			<point x="655" y="173"/>
+			<point x="593" y="96"/>
+			<point x="535" y="96" type="qcurve" smooth="yes"/>
+			<point x="470" y="96"/>
+			<point x="414" y="172"/>
+			<point x="414" y="250" type="qcurve" smooth="yes"/>
+			<point x="414" y="344" type="line"/>
+			<point x="434" y="352"/>
+			<point x="477" y="360"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 71 values pushed */
+18 1 4 3 32 10 3 3 5 4 2 76 7 6 2 0 73 0 3 7 1 4 5 3 4 105 0 1 1 2 95 0 2 2 39 77 0 5 5 0 97 6 1 0 0 44 0 78 30 29 1 0 37 35 29 44 30 41 21 19 17 16 14 13 0 28 1 25 8 8 22 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

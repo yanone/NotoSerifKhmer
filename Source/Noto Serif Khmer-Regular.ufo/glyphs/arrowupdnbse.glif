@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowupdnbse" format="2">
+	<advance width="1024"/>
+	<unicode hex="21A8"/>
+	<note>
+		arrowupdnbse
+  </note>
+	<outline>
+		<contour>
+			<point x="469" y="928" type="qcurve"/>
+			<point x="469" y="928" type="line"/>
+			<point x="469" y="928" type="line"/>
+			<point x="469" y="928" type="line"/>
+			<point x="469" y="928" type="line"/>
+			<point x="469" y="162" type="line"/>
+			<point x="401" y="219"/>
+			<point x="272" y="281" type="qcurve"/>
+			<point x="272" y="209" type="line"/>
+			<point x="422" y="82"/>
+			<point x="494" y="-61" type="qcurve"/>
+			<point x="530" y="-61" type="line"/>
+			<point x="602" y="82"/>
+			<point x="752" y="209" type="qcurve"/>
+			<point x="752" y="281" type="line"/>
+			<point x="623" y="219"/>
+			<point x="555" y="162" type="qcurve"/>
+			<point x="555" y="928" type="line"/>
+			<point x="623" y="870"/>
+			<point x="752" y="809" type="qcurve"/>
+			<point x="752" y="881" type="line"/>
+			<point x="602" y="1008"/>
+			<point x="530" y="1151" type="qcurve"/>
+			<point x="494" y="1151" type="line"/>
+			<point x="422" y="1008"/>
+			<point x="272" y="881" type="qcurve"/>
+			<point x="272" y="809" type="line"/>
+			<point x="401" y="870"/>
+		</contour>
+		<contour>
+			<point x="272" y="-104" type="line"/>
+			<point x="272" y="-104" type="line"/>
+			<point x="272" y="-184" type="line"/>
+			<point x="752" y="-184" type="line"/>
+			<point x="752" y="-104" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 50 values pushed */
+24 23 21 20 15 14 12 11 9 8 3 2 12 1 0 1 76 0 0 1 0 133 0 1 2 1 133 0 2 3 3 2 87 0 2 2 3 95 0 3 2 3 79 17 25 27 21 4 6 26 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

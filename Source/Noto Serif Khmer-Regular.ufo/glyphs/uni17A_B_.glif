@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17AB" format="2">
+	<advance width="1289"/>
+	<unicode hex="17AB"/>
+	<note>
+		uni17AB
+  </note>
+	<outline>
+		<component base="uni1794"/>
+		<component base="ru.half"/>
+	</outline>
+</glyph>

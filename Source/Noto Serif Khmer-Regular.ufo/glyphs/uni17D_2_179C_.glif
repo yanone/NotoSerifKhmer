@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17D2_179C" format="2">
+	<advance width="0"/>
+	<note>
+		uni17D2_179C
+  </note>
+	<outline>
+		<contour>
+			<point x="-737" y="-500" type="qcurve"/>
+			<point x="-737" y="-500" type="line"/>
+			<point x="-737" y="-500" type="line"/>
+			<point x="-737" y="-500" type="line"/>
+			<point x="-209" y="-500"/>
+			<point x="-209" y="-196" type="qcurve" smooth="yes"/>
+			<point x="-209" y="-70" type="line"/>
+			<point x="-398" y="-70" type="line"/>
+			<point x="-993" y="-227" type="line" smooth="yes"/>
+			<point x="-1078" y="-249"/>
+			<point x="-1078" y="-321" type="qcurve" smooth="yes"/>
+			<point x="-1078" y="-500"/>
+		</contour>
+		<contour>
+			<point x="-889" y="-326" type="qcurve"/>
+			<point x="-889" y="-326" type="line"/>
+			<point x="-889" y="-326" type="line"/>
+			<point x="-889" y="-326" type="line"/>
+			<point x="-398" y="-196" type="line"/>
+			<point x="-398" y="-388"/>
+			<point x="-737" y="-388" type="qcurve" smooth="yes"/>
+			<point x="-889" y="-388"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHB[ ]	/* 7 values pushed */
+16 15 2 2 1 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+9 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 18 values pushed */
+0 1 2 2 1 112 0 2 2 0 98 3 1 0 0 26 0 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+15 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 17 values pushed */
+0 1 2 1 133 0 2 2 0 98 3 1 0 0 26 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 17 values pushed */
+0 1 1 24 77 0 2 2 0 98 3 1 0 0 26 0 78 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 13 values pushed */
+1 0 14 12 6 5 0 10 1 8 4 7 22 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2557" format="2">
+	<advance width="1450"/>
+	<unicode hex="2557"/>
+	<note>
+		uni2557
+  </note>
+	<outline>
+		<contour>
+			<point x="979" y="1004" type="line"/>
+			<point x="979" y="1004" type="line"/>
+			<point x="-10" y="1004" type="line"/>
+			<point x="-10" y="858" type="line"/>
+			<point x="834" y="858" type="line"/>
+			<point x="834" y="-492" type="line"/>
+			<point x="979" y="-492" type="line"/>
+		</contour>
+		<contour>
+			<point x="618" y="-492" type="line"/>
+			<point x="618" y="-492" type="line"/>
+			<point x="618" y="643" type="line"/>
+			<point x="-10" y="643" type="line"/>
+			<point x="-10" y="498" type="line"/>
+			<point x="473" y="498" type="line"/>
+			<point x="473" y="-492" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 48 values pushed */
+3 1 0 4 0 134 6 1 2 0 1 5 2 1 103 0 5 4 4 5 87 0 5 5 4 95 0 4 5 4 79 0 0 11 10 9 8 7 6 0 5 0 5 17 17 7 6 24 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glyph02204" format="2">
+	<advance width="1024"/>
+	<note>
+		glyph02204
+  </note>
+	<outline>
+		<contour>
+			<point x="408" y="1696" type="qcurve"/>
+			<point x="408" y="1696" type="line"/>
+			<point x="408" y="1696" type="line"/>
+			<point x="408" y="1696" type="line"/>
+			<point x="408" y="1696" type="line"/>
+			<point x="408" y="1634"/>
+			<point x="467" y="1581"/>
+			<point x="512" y="1581" type="qcurve" smooth="yes"/>
+			<point x="555" y="1581"/>
+			<point x="616" y="1634"/>
+			<point x="616" y="1696" type="qcurve" smooth="yes"/>
+			<point x="616" y="1753"/>
+			<point x="563" y="1810"/>
+			<point x="512" y="1810" type="qcurve" smooth="yes"/>
+			<point x="459" y="1810"/>
+			<point x="408" y="1751"/>
+		</contour>
+		<contour>
+			<point x="809" y="1927" type="line"/>
+			<point x="809" y="1927" type="line"/>
+			<point x="809" y="2048" type="line"/>
+			<point x="215" y="2048" type="line"/>
+			<point x="215" y="1927" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 31 values pushed */
+0 3 0 2 0 3 2 103 0 0 1 1 0 89 0 0 0 1 97 0 1 0 1 81 17 21 36 34 4 8 26 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

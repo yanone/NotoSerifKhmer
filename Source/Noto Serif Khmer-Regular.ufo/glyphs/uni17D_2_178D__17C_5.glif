@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17D2_178D_17C5" format="2">
+	<advance width="1289"/>
+	<note>
+		uni17D2_178D_17C5
+  </note>
+	<outline>
+		<contour>
+			<point x="1075" y="1042" type="qcurve"/>
+			<point x="1075" y="1042" type="line"/>
+			<point x="1075" y="1042" type="line"/>
+			<point x="1139" y="1154"/>
+			<point x="1139" y="1214" type="qcurve" smooth="yes"/>
+			<point x="1139" y="1474" type="line" smooth="yes"/>
+			<point x="1139" y="1647"/>
+			<point x="983" y="1647" type="qcurve" smooth="yes"/>
+			<point x="858" y="1647"/>
+			<point x="858" y="1560" type="qcurve"/>
+			<point x="940" y="1560"/>
+			<point x="940" y="1474" type="qcurve" smooth="yes"/>
+			<point x="940" y="1183" type="line"/>
+			<point x="921" y="1195"/>
+			<point x="899" y="1206" type="qcurve" smooth="yes"/>
+			<point x="708" y="1300"/>
+			<point x="563" y="1300" type="qcurve" smooth="yes"/>
+			<point x="440" y="1300"/>
+			<point x="172" y="1196"/>
+			<point x="78" y="1115" type="qcurve"/>
+			<point x="78" y="987" type="line" smooth="yes"/>
+			<point x="78" y="947"/>
+			<point x="139" y="911" type="qcurve" smooth="yes"/>
+			<point x="200" y="875" type="line"/>
+			<point x="200" y="-349" type="line"/>
+			<point x="58" y="-314"/>
+			<point x="-89" y="-314" type="qcurve" smooth="yes"/>
+			<point x="-209" y="-314" type="line"/>
+			<point x="-209" y="-278" type="line" smooth="yes"/>
+			<point x="-209" y="-188"/>
+			<point x="-380" y="-70"/>
+			<point x="-447" y="-70" type="qcurve" smooth="yes"/>
+			<point x="-520" y="-70"/>
+			<point x="-631" y="-160" type="qcurve"/>
+			<point x="-766" y="-70"/>
+			<point x="-823" y="-70" type="qcurve" smooth="yes"/>
+			<point x="-879" y="-70"/>
+			<point x="-994" y="-132" type="qcurve"/>
+			<point x="-1078" y="-192"/>
+			<point x="-1078" y="-256" type="qcurve" smooth="yes"/>
+			<point x="-1078" y="-500" type="line"/>
+			<point x="-706" y="-500" type="line"/>
+			<point x="-706" y="-370" type="line"/>
+			<point x="-889" y="-370" type="line"/>
+			<point x="-889" y="-239" type="line"/>
+			<point x="-865" y="-206"/>
+			<point x="-827" y="-206" type="qcurve" smooth="yes"/>
+			<point x="-774" y="-206"/>
+			<point x="-655" y="-298" type="qcurve"/>
+			<point x="-529" y="-206"/>
+			<point x="-466" y="-206" type="qcurve"/>
+			<point x="-398" y="-235"/>
+			<point x="-398" y="-278" type="qcurve" smooth="yes"/>
+			<point x="-398" y="-500" type="line"/>
+			<point x="-209" y="-500" type="line"/>
+			<point x="-209" y="-403" type="line"/>
+			<point x="-89" y="-403" type="line" smooth="yes"/>
+			<point x="7" y="-403"/>
+			<point x="200" y="-450"/>
+			<point x="200" y="-500" type="qcurve"/>
+			<point x="399" y="-500" type="line"/>
+			<point x="399" y="836" type="line" smooth="yes"/>
+			<point x="399" y="895"/>
+			<point x="303" y="953" type="qcurve" smooth="yes"/>
+			<point x="206" y="1011" type="line"/>
+			<point x="206" y="1052" type="line"/>
+			<point x="370" y="1157"/>
+			<point x="433" y="1157" type="qcurve" smooth="yes"/>
+			<point x="561" y="1157"/>
+			<point x="890" y="1008"/>
+			<point x="890" y="970" type="qcurve" smooth="yes"/>
+			<point x="890" y="0" type="line"/>
+			<point x="1089" y="0" type="line"/>
+			<point x="1089" y="970" type="line" smooth="yes"/>
+			<point x="1089" y="1008"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 26 values pushed */
+63 1 1 12 56 52 11 10 4 0 1 42 1 5 9 31 27 2 11 5 51 1 7 11 5 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+15 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 54 values pushed */
+0 14 0 13 12 14 13 105 10 1 9 6 1 5 11 9 5 105 0 11 0 3 2 11 3 105 0 1 1 12 97 0 12 12 23 77 0 0 0 25 77 0 7 7 2 95 8 4 2 2 2 26 2 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 56 values pushed */
+0 14 0 13 12 14 13 105 0 11 0 3 2 11 3 105 0 1 1 12 97 0 12 12 23 77 0 0 0 25 77 6 1 5 5 9 97 10 1 9 9 24 77 0 7 7 2 95 8 4 2 2 2 26 2 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 24 values pushed */
+69 67 66 65 60 58 50 48 45 43 41 39 17 18 34 19 17 34 22 35 19 15 7 31 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

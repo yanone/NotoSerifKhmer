@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17E0" format="2">
+	<advance width="1289"/>
+	<unicode hex="17E0"/>
+	<note>
+		uni17E0
+  </note>
+	<outline>
+		<contour>
+			<point x="1089" y="400" type="qcurve"/>
+			<point x="1089" y="400" type="line"/>
+			<point x="1089" y="400" type="line"/>
+			<point x="1089" y="400" type="line"/>
+			<point x="1089" y="900" type="line" smooth="yes"/>
+			<point x="1089" y="1300"/>
+			<point x="645" y="1300" type="qcurve" smooth="yes"/>
+			<point x="200" y="1300"/>
+			<point x="200" y="900" type="qcurve" smooth="yes"/>
+			<point x="200" y="400" type="line" smooth="yes"/>
+			<point x="200" y="0"/>
+			<point x="645" y="0" type="qcurve" smooth="yes"/>
+			<point x="1089" y="0"/>
+		</contour>
+		<contour>
+			<point x="399" y="400" type="qcurve"/>
+			<point x="399" y="400" type="line"/>
+			<point x="399" y="400" type="line"/>
+			<point x="399" y="400" type="line"/>
+			<point x="399" y="900" type="line" smooth="yes"/>
+			<point x="399" y="1178"/>
+			<point x="645" y="1178" type="qcurve" smooth="yes"/>
+			<point x="890" y="1178"/>
+			<point x="890" y="900" type="qcurve" smooth="yes"/>
+			<point x="890" y="400" type="line" smooth="yes"/>
+			<point x="890" y="122"/>
+			<point x="645" y="122" type="qcurve" smooth="yes"/>
+			<point x="399" y="122"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 28 values pushed */
+0 3 3 1 97 0 1 1 23 77 0 2 2 0 97 0 0 0 25 0 78 35 37 35 33 4 7 26 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

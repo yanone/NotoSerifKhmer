@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EDE" format="2">
+	<advance width="1593"/>
+	<unicode hex="1EDE"/>
+	<note>
+		uni1EDE
+  </note>
+	<outline>
+		<component base="Ohorn"/>
+		<component base="glyph00609" xOffset="1376" yOffset="338"/>
+	</outline>
+</glyph>

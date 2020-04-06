@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni035D" format="2">
+	<advance width="0"/>
+	<unicode hex="035D"/>
+	<note>
+		uni035D
+  </note>
+	<outline>
+		<contour>
+			<point x="1393" y="1589" type="qcurve"/>
+			<point x="1393" y="1589" type="line"/>
+			<point x="1393" y="1589" type="line"/>
+			<point x="1393" y="1589" type="line"/>
+			<point x="1393" y="1589" type="line"/>
+			<point x="1300" y="1589" type="line"/>
+			<point x="1212" y="1464"/>
+			<point x="867" y="1341"/>
+			<point x="621" y="1341" type="qcurve" smooth="yes"/>
+			<point x="371" y="1341"/>
+			<point x="26" y="1466"/>
+			<point x="-61" y="1589" type="qcurve"/>
+			<point x="-152" y="1589" type="line"/>
+			<point x="-47" y="1402"/>
+			<point x="328" y="1219"/>
+			<point x="621" y="1219" type="qcurve" smooth="yes"/>
+			<point x="906" y="1219"/>
+			<point x="1284" y="1399"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 29 values pushed */
+3 1 1 2 1 133 0 2 0 0 2 89 0 2 2 0 97 0 0 2 0 81 18 34 18 34 4 8 26 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+		</dict>
+	</lib>
+</glyph>

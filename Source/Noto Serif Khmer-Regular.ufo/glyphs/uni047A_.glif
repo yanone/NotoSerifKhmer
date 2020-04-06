@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni047A" format="2">
+	<advance width="1602"/>
+	<unicode hex="047A"/>
+	<note>
+		uni047A
+  </note>
+	<outline>
+		<contour>
+			<point x="944" y="-8" type="qcurve"/>
+			<point x="944" y="-8" type="line"/>
+			<point x="944" y="-8" type="line"/>
+			<point x="944" y="-8" type="line"/>
+			<point x="944" y="-8" type="line"/>
+			<point x="1203" y="40"/>
+			<point x="1485" y="432"/>
+			<point x="1485" y="733" type="qcurve" smooth="yes"/>
+			<point x="1485" y="1037"/>
+			<point x="1200" y="1427"/>
+			<point x="944" y="1473" type="qcurve"/>
+			<point x="920" y="1585"/>
+			<point x="801" y="1585" type="qcurve" smooth="yes"/>
+			<point x="678" y="1585"/>
+			<point x="657" y="1473" type="qcurve"/>
+			<point x="115" y="1375"/>
+			<point x="115" y="735" type="qcurve" smooth="yes"/>
+			<point x="115" y="87"/>
+			<point x="657" y="-8" type="qcurve"/>
+			<point x="680" y="-125"/>
+			<point x="801" y="-125" type="qcurve" smooth="yes"/>
+			<point x="919" y="-125"/>
+		</contour>
+		<contour>
+			<point x="936" y="109" type="qcurve"/>
+			<point x="936" y="109" type="line"/>
+			<point x="936" y="109" type="line"/>
+			<point x="936" y="109" type="line"/>
+			<point x="936" y="109" type="line"/>
+			<point x="905" y="195"/>
+			<point x="801" y="195" type="qcurve" smooth="yes"/>
+			<point x="692" y="195"/>
+			<point x="664" y="109" type="qcurve"/>
+			<point x="342" y="196"/>
+			<point x="342" y="733" type="qcurve" smooth="yes"/>
+			<point x="342" y="1265"/>
+			<point x="664" y="1354" type="qcurve"/>
+			<point x="693" y="1266"/>
+			<point x="801" y="1266" type="qcurve" smooth="yes"/>
+			<point x="909" y="1266"/>
+			<point x="936" y="1356" type="qcurve"/>
+			<point x="1257" y="1271"/>
+			<point x="1257" y="733" type="qcurve" smooth="yes"/>
+			<point x="1257" y="194"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 42 values pushed */
+29 25 2 2 1 33 1 0 3 2 76 0 1 0 2 3 1 2 105 0 3 0 0 3 89 0 3 3 0 97 0 0 3 0 81 38 47 38 33 4 6 26 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

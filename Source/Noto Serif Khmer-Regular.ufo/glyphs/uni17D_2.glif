@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17D2" format="2">
+	<advance width="0"/>
+	<unicode hex="17D2"/>
+	<note>
+		uni17D2
+  </note>
+	<outline>
+		<contour>
+			<point x="-694" y="-350" type="line"/>
+			<point x="-694" y="-350" type="line"/>
+			<point x="-694" y="-500" type="line"/>
+			<point x="-594" y="-500" type="line"/>
+			<point x="-594" y="-350" type="line"/>
+			<point x="-437" y="-350" type="line"/>
+			<point x="-437" y="-250" type="line"/>
+			<point x="-594" y="-250" type="line"/>
+			<point x="-594" y="-100" type="line"/>
+			<point x="-694" y="-100" type="line"/>
+			<point x="-694" y="-250" type="line"/>
+			<point x="-851" y="-250" type="line"/>
+			<point x="-851" y="-350" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 35 values pushed */
+0 2 1 5 2 87 3 1 1 4 1 0 5 1 0 103 0 2 2 5 95 0 5 2 5 79 17 17 17 17 17 16 6 7 28 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+		</dict>
+	</lib>
+</glyph>

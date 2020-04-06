@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="filledrect" format="2">
+	<advance width="2048"/>
+	<unicode hex="25AC"/>
+	<note>
+		filledrect
+  </note>
+	<outline>
+		<contour>
+			<point x="0" y="745" type="line"/>
+			<point x="0" y="745" type="line"/>
+			<point x="0" y="129" type="line"/>
+			<point x="2048" y="129" type="line"/>
+			<point x="2048" y="745" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 14 values pushed */
+0 0 1 0 133 0 1 1 118 17 16 2 6 24 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17D5" format="2">
+	<advance width="1689"/>
+	<unicode hex="17D5"/>
+	<note>
+		uni17D5
+  </note>
+	<outline>
+		<contour>
+			<point x="520" y="932" type="qcurve"/>
+			<point x="520" y="932" type="line"/>
+			<point x="520" y="932" type="line"/>
+			<point x="520" y="932" type="line"/>
+			<point x="322" y="932"/>
+			<point x="322" y="1080" type="qcurve" smooth="yes"/>
+			<point x="322" y="1124"/>
+			<point x="374" y="1155" type="qcurve"/>
+			<point x="380" y="1043"/>
+			<point x="499" y="1043" type="qcurve" smooth="yes"/>
+			<point x="624" y="1043"/>
+			<point x="624" y="1168" type="qcurve" smooth="yes"/>
+			<point x="624" y="1300"/>
+			<point x="453" y="1300" type="qcurve" smooth="yes"/>
+			<point x="200" y="1300"/>
+			<point x="200" y="1080" type="qcurve" smooth="yes"/>
+			<point x="200" y="800"/>
+			<point x="510" y="800" type="qcurve" smooth="yes"/>
+			<point x="752" y="800"/>
+			<point x="890" y="1011" type="qcurve"/>
+			<point x="890" y="220" type="line" smooth="yes"/>
+			<point x="890" y="122"/>
+			<point x="750" y="122" type="qcurve"/>
+			<point x="750" y="0"/>
+			<point x="860" y="0" type="qcurve" smooth="yes"/>
+			<point x="1089" y="0"/>
+			<point x="1089" y="220" type="qcurve" smooth="yes"/>
+			<point x="1089" y="1300" type="line"/>
+			<point x="890" y="1300" type="line"/>
+			<point x="718" y="932"/>
+		</contour>
+		<contour>
+			<point x="1290" y="1300" type="line"/>
+			<point x="1290" y="1300" type="line"/>
+			<point x="1290" y="1300" type="line"/>
+			<point x="1290" y="1300" type="line"/>
+			<point x="1290" y="220" type="line" smooth="yes"/>
+			<point x="1290" y="72"/>
+			<point x="1150" y="0" type="qcurve"/>
+			<point x="1260" y="0" type="line" smooth="yes"/>
+			<point x="1489" y="0"/>
+			<point x="1489" y="220" type="qcurve" smooth="yes"/>
+			<point x="1489" y="1300" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 73 values pushed */
+23 1 6 1 11 1 0 6 2 76 9 1 0 0 4 3 0 4 105 0 6 6 1 95 10 7 5 3 1 1 23 77 0 3 3 2 97 8 1 2 2 25 2 78 30 29 1 0 34 32 29 38 30 37 22 20 18 16 14 12 9 8 7 5 3 2 0 28 1 26 11 7 22 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

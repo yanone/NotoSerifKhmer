@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2500" format="2">
+	<advance width="1450"/>
+	<unicode hex="2500"/>
+	<note>
+		uni2500
+  </note>
+	<outline>
+		<contour>
+			<point x="-10" y="678" type="line"/>
+			<point x="-10" y="678" type="line"/>
+			<point x="1460" y="678" type="line"/>
+			<point x="1460" y="823" type="line"/>
+			<point x="-10" y="823" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 27 values pushed */
+0 0 1 1 0 87 0 0 0 1 95 2 1 1 0 1 79 0 0 0 3 0 3 17 3 6 23 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>
