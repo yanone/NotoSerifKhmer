@@ -1,0 +1,7 @@
+sources:
+  - NotoSerifKhmer.glyphs
+outputDir: "../Release"
+buildTTF: true
+buildOTF: false
+buildWebfont: false
+buildVariable: false
